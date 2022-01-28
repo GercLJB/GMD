@@ -7,7 +7,7 @@ The title of the paper is "Development of a deep natural network for presenting 
 This study aims to develop a deep neural network (DNN) model as an artificial neural network (ANN) for the prediction of 6-hour average fine particulate matter (PM2.5) concentrations for a three-day period—the day of prediction (D+0), one day after prediction (D+1) and two days after prediction (D+2)—using observation data and forecast data obtained via numerical models.\
 In addition, three experiments were performed to examine the effects of the training-data configuration on the prediction performance of DNN model. The DNN-OBS model used the observation data as the sole training data, the DNN-OPM model used both observation and weather forecast data as the training data, and the DNN-ALL model used the observation data, weather forecast data, and PM2.5 concentration prediction data as the training data.\
 Therefore, this repository provides code and data for performing the three DNN models developed in this paper.\
-The computer language used in the development is python, and the DNN model was constructed using tensorflow.\
+The computer language used in the development is python, and the DNN model was constructed using tensorflow.
 
 
 Code and folder describtion\
