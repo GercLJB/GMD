@@ -1,0 +1,2643 @@
+Count:0 // Learning Rate:0.09000000
+COUNT:0 // LR:0.090000 // STEP:33 // EPOCH:0 // OFFSET:25 // LEARN_COST:0.7203 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=inf // loss=0.03494974493243786 // Step=0
+Early stopping function step : 1
+Early stopping function step : 2
+Early stopping function step : 3
+Early stopping function step : 4
+COUNT:0 // LR:0.090000 // STEP:194 // EPOCH:5 // OFFSET:22 // LEARN_COST:0.7203 // VALI_COST:0.0350 // MIN_COST:0.0349
+Early stopping function step : 5
+Early stopping function step : 6
+Early stopping function step : 7
+Early stopping function step : 8
+Early stopping function step : 9
+COUNT:0 // LR:0.090000 // STEP:355 // EPOCH:10 // OFFSET:19 // LEARN_COST:0.7203 // VALI_COST:0.0350 // MIN_COST:0.0349
+Early stopping function step : 10
+Early stopping function step : 11
+Early stopping function step : 12
+Early stopping function step : 13
+Early stopping function step : 14
+COUNT:0 // LR:0.090000 // STEP:516 // EPOCH:15 // OFFSET:16 // LEARN_COST:0.7203 // VALI_COST:0.0349 // MIN_COST:0.0349
+Early stopping function step : 15
+Early stopping function step : 16
+Early stopping function step : 17
+Early stopping function step : 18
+Early stopping function step : 19
+COUNT:0 // LR:0.090000 // STEP:677 // EPOCH:20 // OFFSET:13 // LEARN_COST:0.7203 // VALI_COST:0.0349 // MIN_COST:0.0349
+Early stopping function step : 20
+Early stopping function step : 21
+Early stopping function step : 22
+Early stopping function step : 23
+Early stopping function step : 24
+COUNT:0 // LR:0.090000 // STEP:838 // EPOCH:25 // OFFSET:10 // LEARN_COST:0.7203 // VALI_COST:0.0349 // MIN_COST:0.0349
+Early stopping function step : 25
+Early stopping function step : 26
+Early stopping function step : 27
+Early stopping function step : 28
+Early stopping function step : 29
+COUNT:0 // LR:0.090000 // STEP:999 // EPOCH:30 // OFFSET:7 // LEARN_COST:0.7203 // VALI_COST:0.0349 // MIN_COST:0.0349
+Early stopping function step : 30
+Early stopping function step : 31
+Early stopping function step : 32
+Early stopping function step : 33
+Early stopping function step : 34
+COUNT:0 // LR:0.090000 // STEP:1160 // EPOCH:35 // OFFSET:4 // LEARN_COST:0.7203 // VALI_COST:0.0349 // MIN_COST:0.0349
+Early stopping function step : 35
+self._loss < loss False : _loss=0.03494974493243786 // loss=0.03494973068716226 // Step=35
+self._loss < loss False : _loss=0.03494973068716226 // loss=0.034949718121332796 // Step=0
+self._loss < loss False : _loss=0.034949718121332796 // loss=0.03494971362826733 // Step=0
+self._loss < loss False : _loss=0.03494971362826733 // loss=0.034949699456846235 // Step=0
+COUNT:0 // LR:0.090000 // STEP:1321 // EPOCH:40 // OFFSET:1 // LEARN_COST:0.7203 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034949699456846235 // loss=0.03494968523217896 // Step=0
+self._loss < loss False : _loss=0.03494968523217896 // loss=0.03494967400939482 // Step=0
+self._loss < loss False : _loss=0.03494967400939482 // loss=0.03494965933439675 // Step=0
+self._loss < loss False : _loss=0.03494965933439675 // loss=0.03494964653654002 // Step=0
+self._loss < loss False : _loss=0.03494964653654002 // loss=0.03494963531710767 // Step=0
+COUNT:0 // LR:0.090000 // STEP:1483 // EPOCH:45 // OFFSET:30 // LEARN_COST:0.7203 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494963531710767 // loss=0.03494962179018756 // Step=0
+self._loss < loss False : _loss=0.03494962179018756 // loss=0.03494961051088563 // Step=0
+self._loss < loss False : _loss=0.03494961051088563 // loss=0.03494959870357134 // Step=0
+self._loss < loss False : _loss=0.03494959870357134 // loss=0.03494958585926035 // Step=0
+self._loss < loss False : _loss=0.03494958585926035 // loss=0.034949574925982815 // Step=0
+COUNT:0 // LR:0.090000 // STEP:1644 // EPOCH:50 // OFFSET:27 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034949574925982815 // loss=0.0349495599739504 // Step=0
+self._loss < loss False : _loss=0.0349495599739504 // loss=0.03494955118016701 // Step=0
+self._loss < loss False : _loss=0.03494955118016701 // loss=0.03494953857095969 // Step=0
+self._loss < loss False : _loss=0.03494953857095969 // loss=0.0349495302232699 // Step=0
+self._loss < loss False : _loss=0.0349495302232699 // loss=0.034949515383502765 // Step=0
+COUNT:0 // LR:0.090000 // STEP:1805 // EPOCH:55 // OFFSET:24 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034949515383502765 // loss=0.03494950231579188 // Step=0
+self._loss < loss False : _loss=0.03494950231579188 // loss=0.0349494880454579 // Step=0
+self._loss < loss False : _loss=0.0349494880454579 // loss=0.034949478775556285 // Step=0
+self._loss < loss False : _loss=0.034949478775556285 // loss=0.0349494644508959 // Step=0
+self._loss < loss False : _loss=0.0349494644508959 // loss=0.03494945128117319 // Step=0
+COUNT:0 // LR:0.090000 // STEP:1966 // EPOCH:60 // OFFSET:21 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494945128117319 // loss=0.03494943702159529 // Step=0
+self._loss < loss False : _loss=0.03494943702159529 // loss=0.034949424338592966 // Step=0
+self._loss < loss False : _loss=0.034949424338592966 // loss=0.03494941296183151 // Step=0
+self._loss < loss False : _loss=0.03494941296183151 // loss=0.03494940412925809 // Step=0
+self._loss < loss False : _loss=0.03494940412925809 // loss=0.034949391471436234 // Step=0
+COUNT:0 // LR:0.090000 // STEP:2127 // EPOCH:65 // OFFSET:18 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034949391471436234 // loss=0.034949379102617736 // Step=0
+self._loss < loss False : _loss=0.034949379102617736 // loss=0.03494936566149956 // Step=0
+self._loss < loss False : _loss=0.03494936566149956 // loss=0.0349493512729854 // Step=0
+self._loss < loss False : _loss=0.0349493512729854 // loss=0.03494933878683673 // Step=0
+self._loss < loss False : _loss=0.03494933878683673 // loss=0.03494932574370746 // Step=0
+COUNT:0 // LR:0.090000 // STEP:2288 // EPOCH:70 // OFFSET:15 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494932574370746 // loss=0.034949312009430585 // Step=0
+self._loss < loss False : _loss=0.034949312009430585 // loss=0.034949297259891855 // Step=0
+self._loss < loss False : _loss=0.034949297259891855 // loss=0.03494928553640938 // Step=0
+self._loss < loss False : _loss=0.03494928553640938 // loss=0.03494927255638553 // Step=0
+self._loss < loss False : _loss=0.03494927255638553 // loss=0.03494925878303986 // Step=0
+COUNT:0 // LR:0.090000 // STEP:2449 // EPOCH:75 // OFFSET:12 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494925878303986 // loss=0.034949243734153465 // Step=0
+self._loss < loss False : _loss=0.034949243734153465 // loss=0.034949229379562366 // Step=0
+self._loss < loss False : _loss=0.034949229379562366 // loss=0.0349492169039517 // Step=0
+self._loss < loss False : _loss=0.0349492169039517 // loss=0.03494920353517345 // Step=0
+self._loss < loss False : _loss=0.03494920353517345 // loss=0.03494919016538817 // Step=0
+COUNT:0 // LR:0.090000 // STEP:2610 // EPOCH:80 // OFFSET:9 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494919016538817 // loss=0.03494917756618915 // Step=0
+self._loss < loss False : _loss=0.03494917756618915 // loss=0.034949161969160515 // Step=0
+self._loss < loss False : _loss=0.034949161969160515 // loss=0.034949151188501976 // Step=0
+self._loss < loss False : _loss=0.034949151188501976 // loss=0.03494913663430085 // Step=0
+self._loss < loss False : _loss=0.03494913663430085 // loss=0.03494912364133345 // Step=0
+COUNT:0 // LR:0.090000 // STEP:2771 // EPOCH:85 // OFFSET:6 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494912364133345 // loss=0.03494910832112025 // Step=0
+self._loss < loss False : _loss=0.03494910832112025 // loss=0.03494909667014683 // Step=0
+self._loss < loss False : _loss=0.03494909667014683 // loss=0.034949085164632965 // Step=0
+self._loss < loss False : _loss=0.034949085164632965 // loss=0.03494906888196582 // Step=0
+self._loss < loss False : _loss=0.03494906888196582 // loss=0.03494905336433232 // Step=0
+COUNT:0 // LR:0.090000 // STEP:2932 // EPOCH:90 // OFFSET:3 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494905336433232 // loss=0.03494904106188304 // Step=0
+self._loss < loss False : _loss=0.03494904106188304 // loss=0.03494902509395143 // Step=0
+self._loss < loss False : _loss=0.03494902509395143 // loss=0.03494901568476192 // Step=0
+self._loss < loss False : _loss=0.03494901568476192 // loss=0.03494900266215363 // Step=0
+self._loss < loss False : _loss=0.03494900266215363 // loss=0.03494898783405218 // Step=0
+COUNT:0 // LR:0.090000 // STEP:3093 // EPOCH:95 // OFFSET:0 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494898783405218 // loss=0.03494897314422422 // Step=0
+self._loss < loss False : _loss=0.03494897314422422 // loss=0.034948957467010516 // Step=0
+self._loss < loss False : _loss=0.034948957467010516 // loss=0.03494894274289153 // Step=0
+self._loss < loss False : _loss=0.03494894274289153 // loss=0.03494892658942331 // Step=0
+self._loss < loss False : _loss=0.03494892658942331 // loss=0.03494890987239949 // Step=0
+COUNT:0 // LR:0.090000 // STEP:3255 // EPOCH:100 // OFFSET:29 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494890987239949 // loss=0.03494889549976703 // Step=0
+self._loss < loss False : _loss=0.03494889549976703 // loss=0.034948883259573765 // Step=0
+self._loss < loss False : _loss=0.034948883259573765 // loss=0.03494887299806191 // Step=0
+self._loss < loss False : _loss=0.03494887299806191 // loss=0.03494885842482924 // Step=0
+self._loss < loss False : _loss=0.03494885842482924 // loss=0.03494884341641888 // Step=0
+COUNT:0 // LR:0.090000 // STEP:3416 // EPOCH:105 // OFFSET:26 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494884341641888 // loss=0.034948822432049255 // Step=0
+self._loss < loss False : _loss=0.034948822432049255 // loss=0.03494881312049702 // Step=0
+self._loss < loss False : _loss=0.03494881312049702 // loss=0.034948797094799866 // Step=0
+self._loss < loss False : _loss=0.034948797094799866 // loss=0.034948782263956125 // Step=0
+self._loss < loss False : _loss=0.034948782263956125 // loss=0.03494876655803266 // Step=0
+COUNT:0 // LR:0.090000 // STEP:3577 // EPOCH:110 // OFFSET:23 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494876655803266 // loss=0.03494875062508719 // Step=0
+self._loss < loss False : _loss=0.03494875062508719 // loss=0.03494873761916511 // Step=0
+self._loss < loss False : _loss=0.03494873761916511 // loss=0.034948721981785155 // Step=0
+self._loss < loss False : _loss=0.034948721981785155 // loss=0.03494871066705836 // Step=0
+self._loss < loss False : _loss=0.03494871066705836 // loss=0.03494869437369002 // Step=0
+COUNT:0 // LR:0.090000 // STEP:3738 // EPOCH:115 // OFFSET:20 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494869437369002 // loss=0.03494867809969315 // Step=0
+self._loss < loss False : _loss=0.03494867809969315 // loss=0.034948663993810254 // Step=0
+self._loss < loss False : _loss=0.034948663993810254 // loss=0.034948647938310005 // Step=0
+self._loss < loss False : _loss=0.034948647938310005 // loss=0.03494862996183023 // Step=0
+self._loss < loss False : _loss=0.03494862996183023 // loss=0.03494861385380252 // Step=0
+COUNT:0 // LR:0.090000 // STEP:3899 // EPOCH:120 // OFFSET:17 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494861385380252 // loss=0.034948598075933916 // Step=0
+self._loss < loss False : _loss=0.034948598075933916 // loss=0.0349485824917751 // Step=0
+self._loss < loss False : _loss=0.0349485824917751 // loss=0.034948567847865625 // Step=0
+self._loss < loss False : _loss=0.034948567847865625 // loss=0.034948550257767295 // Step=0
+self._loss < loss False : _loss=0.034948550257767295 // loss=0.03494853437378365 // Step=0
+COUNT:0 // LR:0.090000 // STEP:4060 // EPOCH:125 // OFFSET:14 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494853437378365 // loss=0.03494851788210933 // Step=0
+self._loss < loss False : _loss=0.03494851788210933 // loss=0.03494850282319282 // Step=0
+self._loss < loss False : _loss=0.03494850282319282 // loss=0.03494848493382184 // Step=0
+self._loss < loss False : _loss=0.03494848493382184 // loss=0.03494846815225668 // Step=0
+self._loss < loss False : _loss=0.03494846815225668 // loss=0.03494845406079472 // Step=0
+COUNT:0 // LR:0.090000 // STEP:4221 // EPOCH:130 // OFFSET:11 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494845406079472 // loss=0.0349484368860379 // Step=0
+self._loss < loss False : _loss=0.0349484368860379 // loss=0.034948421454457465 // Step=0
+self._loss < loss False : _loss=0.034948421454457465 // loss=0.03494840726260017 // Step=0
+self._loss < loss False : _loss=0.03494840726260017 // loss=0.03494839268412801 // Step=0
+self._loss < loss False : _loss=0.03494839268412801 // loss=0.03494837289334196 // Step=0
+COUNT:0 // LR:0.090000 // STEP:4382 // EPOCH:135 // OFFSET:8 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494837289334196 // loss=0.03494835675960289 // Step=0
+self._loss < loss False : _loss=0.03494835675960289 // loss=0.03494833846943349 // Step=0
+self._loss < loss False : _loss=0.03494833846943349 // loss=0.03494832121941912 // Step=0
+self._loss < loss False : _loss=0.03494832121941912 // loss=0.03494830784149249 // Step=0
+self._loss < loss False : _loss=0.03494830784149249 // loss=0.03494829090538547 // Step=0
+COUNT:0 // LR:0.090000 // STEP:4543 // EPOCH:140 // OFFSET:5 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494829090538547 // loss=0.034948273006377935 // Step=0
+self._loss < loss False : _loss=0.034948273006377935 // loss=0.034948254957454926 // Step=0
+self._loss < loss False : _loss=0.034948254957454926 // loss=0.03494823887497432 // Step=0
+self._loss < loss False : _loss=0.03494823887497432 // loss=0.03494822363230157 // Step=0
+self._loss < loss False : _loss=0.03494822363230157 // loss=0.03494820465008847 // Step=0
+COUNT:0 // LR:0.090000 // STEP:4704 // EPOCH:145 // OFFSET:2 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494820465008847 // loss=0.034948186816754725 // Step=0
+self._loss < loss False : _loss=0.034948186816754725 // loss=0.03494816928579184 // Step=0
+self._loss < loss False : _loss=0.03494816928579184 // loss=0.03494815261406274 // Step=0
+self._loss < loss False : _loss=0.03494815261406274 // loss=0.03494813325387601 // Step=0
+self._loss < loss False : _loss=0.03494813325387601 // loss=0.0349481149647679 // Step=0
+COUNT:0 // LR:0.090000 // STEP:4866 // EPOCH:150 // OFFSET:31 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.0349481149647679 // loss=0.03494809498627692 // Step=0
+self._loss < loss False : _loss=0.03494809498627692 // loss=0.03494807868175593 // Step=0
+self._loss < loss False : _loss=0.03494807868175593 // loss=0.03494806064105445 // Step=0
+self._loss < loss False : _loss=0.03494806064105445 // loss=0.034948045104171 // Step=0
+self._loss < loss False : _loss=0.034948045104171 // loss=0.03494802412770489 // Step=0
+COUNT:0 // LR:0.090000 // STEP:5027 // EPOCH:155 // OFFSET:28 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494802412770489 // loss=0.03494800540934344 // Step=0
+self._loss < loss False : _loss=0.03494800540934344 // loss=0.034947987906067866 // Step=0
+self._loss < loss False : _loss=0.034947987906067866 // loss=0.03494797052584746 // Step=0
+self._loss < loss False : _loss=0.03494797052584746 // loss=0.034947950960192826 // Step=0
+self._loss < loss False : _loss=0.034947950960192826 // loss=0.03494793216280449 // Step=0
+COUNT:0 // LR:0.090000 // STEP:5188 // EPOCH:160 // OFFSET:25 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494793216280449 // loss=0.034947913922826104 // Step=0
+self._loss < loss False : _loss=0.034947913922826104 // loss=0.03494789330821951 // Step=0
+self._loss < loss False : _loss=0.03494789330821951 // loss=0.03494787681367052 // Step=0
+self._loss < loss False : _loss=0.03494787681367052 // loss=0.03494785751341102 // Step=0
+self._loss < loss False : _loss=0.03494785751341102 // loss=0.034947836992971375 // Step=0
+COUNT:0 // LR:0.090000 // STEP:5349 // EPOCH:165 // OFFSET:22 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034947836992971375 // loss=0.03494782047154372 // Step=0
+self._loss < loss False : _loss=0.03494782047154372 // loss=0.03494779908274913 // Step=0
+self._loss < loss False : _loss=0.03494779908274913 // loss=0.034947780467217124 // Step=0
+self._loss < loss False : _loss=0.034947780467217124 // loss=0.034947762919410784 // Step=0
+self._loss < loss False : _loss=0.034947762919410784 // loss=0.0349477415780508 // Step=0
+COUNT:0 // LR:0.090000 // STEP:5510 // EPOCH:170 // OFFSET:19 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.0349477415780508 // loss=0.03494772275366458 // Step=0
+self._loss < loss False : _loss=0.03494772275366458 // loss=0.03494770330260177 // Step=0
+self._loss < loss False : _loss=0.03494770330260177 // loss=0.03494768453776666 // Step=0
+self._loss < loss False : _loss=0.03494768453776666 // loss=0.03494766581943489 // Step=0
+self._loss < loss False : _loss=0.03494766581943489 // loss=0.03494764488410803 // Step=0
+COUNT:0 // LR:0.090000 // STEP:5671 // EPOCH:175 // OFFSET:16 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494764488410803 // loss=0.0349476258203858 // Step=0
+self._loss < loss False : _loss=0.0349476258203858 // loss=0.03494760422199305 // Step=0
+self._loss < loss False : _loss=0.03494760422199305 // loss=0.034947582636307546 // Step=0
+self._loss < loss False : _loss=0.034947582636307546 // loss=0.03494756306127144 // Step=0
+self._loss < loss False : _loss=0.03494756306127144 // loss=0.034947543207546 // Step=0
+COUNT:0 // LR:0.090000 // STEP:5832 // EPOCH:180 // OFFSET:13 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034947543207546 // loss=0.03494752364725293 // Step=0
+self._loss < loss False : _loss=0.03494752364725293 // loss=0.03494749952862585 // Step=0
+self._loss < loss False : _loss=0.03494749952862585 // loss=0.03494747863699342 // Step=0
+self._loss < loss False : _loss=0.03494747863699342 // loss=0.03494745866083624 // Step=0
+self._loss < loss False : _loss=0.03494745866083624 // loss=0.03494743906844241 // Step=0
+COUNT:0 // LR:0.090000 // STEP:5993 // EPOCH:185 // OFFSET:10 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494743906844241 // loss=0.03494741774667705 // Step=0
+self._loss < loss False : _loss=0.03494741774667705 // loss=0.03494739852002609 // Step=0
+self._loss < loss False : _loss=0.03494739852002609 // loss=0.03494737267307503 // Step=0
+self._loss < loss False : _loss=0.03494737267307503 // loss=0.034947350202402534 // Step=0
+self._loss < loss False : _loss=0.034947350202402534 // loss=0.034947328817726886 // Step=0
+COUNT:0 // LR:0.090000 // STEP:6154 // EPOCH:190 // OFFSET:7 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034947328817726886 // loss=0.03494730914077058 // Step=0
+self._loss < loss False : _loss=0.03494730914077058 // loss=0.034947287003459074 // Step=0
+self._loss < loss False : _loss=0.034947287003459074 // loss=0.03494726617409395 // Step=0
+self._loss < loss False : _loss=0.03494726617409395 // loss=0.03494724409848849 // Step=0
+self._loss < loss False : _loss=0.03494724409848849 // loss=0.034947220402048396 // Step=0
+COUNT:0 // LR:0.090000 // STEP:6315 // EPOCH:195 // OFFSET:4 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034947220402048396 // loss=0.03494719575080876 // Step=0
+self._loss < loss False : _loss=0.03494719575080876 // loss=0.03494717410829375 // Step=0
+self._loss < loss False : _loss=0.03494717410829375 // loss=0.034947152637943256 // Step=0
+self._loss < loss False : _loss=0.034947152637943256 // loss=0.03494713048516447 // Step=0
+self._loss < loss False : _loss=0.03494713048516447 // loss=0.03494710451698991 // Step=0
+COUNT:0 // LR:0.090000 // STEP:6476 // EPOCH:200 // OFFSET:1 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494710451698991 // loss=0.03494708306719363 // Step=0
+self._loss < loss False : _loss=0.03494708306719363 // loss=0.03494705972719605 // Step=0
+self._loss < loss False : _loss=0.03494705972719605 // loss=0.034947038246616796 // Step=0
+self._loss < loss False : _loss=0.034947038246616796 // loss=0.03494701585335775 // Step=0
+self._loss < loss False : _loss=0.03494701585335775 // loss=0.03494699117689324 // Step=0
+COUNT:0 // LR:0.090000 // STEP:6638 // EPOCH:205 // OFFSET:30 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494699117689324 // loss=0.03494696563739333 // Step=0
+self._loss < loss False : _loss=0.03494696563739333 // loss=0.03494694126225064 // Step=0
+self._loss < loss False : _loss=0.03494694126225064 // loss=0.034946916702418396 // Step=0
+self._loss < loss False : _loss=0.034946916702418396 // loss=0.03494689544575516 // Step=0
+self._loss < loss False : _loss=0.03494689544575516 // loss=0.03494686924747986 // Step=0
+COUNT:0 // LR:0.090000 // STEP:6799 // EPOCH:210 // OFFSET:27 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494686924747986 // loss=0.03494684743615458 // Step=0
+self._loss < loss False : _loss=0.03494684743615458 // loss=0.034946823294279596 // Step=0
+self._loss < loss False : _loss=0.034946823294279596 // loss=0.03494679927284619 // Step=0
+self._loss < loss False : _loss=0.03494679927284619 // loss=0.034946776334753606 // Step=0
+self._loss < loss False : _loss=0.034946776334753606 // loss=0.034946746402879786 // Step=0
+COUNT:0 // LR:0.090000 // STEP:6960 // EPOCH:215 // OFFSET:24 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034946746402879786 // loss=0.03494672493251261 // Step=0
+self._loss < loss False : _loss=0.03494672493251261 // loss=0.03494669805669463 // Step=0
+self._loss < loss False : _loss=0.03494669805669463 // loss=0.03494667124498666 // Step=0
+self._loss < loss False : _loss=0.03494667124498666 // loss=0.03494664607424312 // Step=0
+self._loss < loss False : _loss=0.03494664607424312 // loss=0.03494662181964985 // Step=0
+COUNT:0 // LR:0.090000 // STEP:7121 // EPOCH:220 // OFFSET:21 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494662181964985 // loss=0.03494659792974498 // Step=0
+self._loss < loss False : _loss=0.03494659792974498 // loss=0.03494657095243166 // Step=0
+self._loss < loss False : _loss=0.03494657095243166 // loss=0.034946548056552056 // Step=0
+self._loss < loss False : _loss=0.034946548056552056 // loss=0.03494652012193498 // Step=0
+self._loss < loss False : _loss=0.03494652012193498 // loss=0.03494649113097604 // Step=0
+COUNT:0 // LR:0.090000 // STEP:7282 // EPOCH:225 // OFFSET:18 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494649113097604 // loss=0.034946464920674714 // Step=0
+self._loss < loss False : _loss=0.034946464920674714 // loss=0.034946438363226036 // Step=0
+self._loss < loss False : _loss=0.034946438363226036 // loss=0.03494640897259787 // Step=0
+self._loss < loss False : _loss=0.03494640897259787 // loss=0.034946383530905574 // Step=0
+self._loss < loss False : _loss=0.034946383530905574 // loss=0.03494635568291435 // Step=0
+COUNT:0 // LR:0.090000 // STEP:7443 // EPOCH:230 // OFFSET:15 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494635568291435 // loss=0.03494632604226194 // Step=0
+self._loss < loss False : _loss=0.03494632604226194 // loss=0.03494629919174963 // Step=0
+self._loss < loss False : _loss=0.03494629919174963 // loss=0.03494627144349224 // Step=0
+self._loss < loss False : _loss=0.03494627144349224 // loss=0.03494624481176096 // Step=0
+self._loss < loss False : _loss=0.03494624481176096 // loss=0.03494621688109418 // Step=0
+COUNT:0 // LR:0.090000 // STEP:7604 // EPOCH:235 // OFFSET:12 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494621688109418 // loss=0.03494618733047212 // Step=0
+self._loss < loss False : _loss=0.03494618733047212 // loss=0.03494615731942536 // Step=0
+self._loss < loss False : _loss=0.03494615731942536 // loss=0.03494612997061588 // Step=0
+self._loss < loss False : _loss=0.03494612997061588 // loss=0.03494610006904655 // Step=0
+self._loss < loss False : _loss=0.03494610006904655 // loss=0.034946071787843 // Step=0
+COUNT:0 // LR:0.090000 // STEP:7765 // EPOCH:240 // OFFSET:9 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034946071787843 // loss=0.03494603920659419 // Step=0
+self._loss < loss False : _loss=0.03494603920659419 // loss=0.03494601399063784 // Step=0
+self._loss < loss False : _loss=0.03494601399063784 // loss=0.03494598222380969 // Step=0
+self._loss < loss False : _loss=0.03494598222380969 // loss=0.03494595485758569 // Step=0
+self._loss < loss False : _loss=0.03494595485758569 // loss=0.034945926613850785 // Step=0
+COUNT:0 // LR:0.090000 // STEP:7926 // EPOCH:245 // OFFSET:6 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034945926613850785 // loss=0.0349458940507628 // Step=0
+self._loss < loss False : _loss=0.0349458940507628 // loss=0.03494586159095567 // Step=0
+self._loss < loss False : _loss=0.03494586159095567 // loss=0.03494583268974819 // Step=0
+self._loss < loss False : _loss=0.03494583268974819 // loss=0.03494580037948803 // Step=0
+self._loss < loss False : _loss=0.03494580037948803 // loss=0.03494576960676139 // Step=0
+COUNT:0 // LR:0.090000 // STEP:8087 // EPOCH:250 // OFFSET:3 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494576960676139 // loss=0.03494573915988306 // Step=0
+self._loss < loss False : _loss=0.03494573915988306 // loss=0.03494570791791493 // Step=0
+self._loss < loss False : _loss=0.03494570791791493 // loss=0.03494567607733438 // Step=0
+self._loss < loss False : _loss=0.03494567607733438 // loss=0.03494564522433756 // Step=0
+self._loss < loss False : _loss=0.03494564522433756 // loss=0.03494561237177158 // Step=0
+COUNT:0 // LR:0.090000 // STEP:8248 // EPOCH:255 // OFFSET:0 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494561237177158 // loss=0.03494558047958777 // Step=0
+self._loss < loss False : _loss=0.03494558047958777 // loss=0.03494554730253198 // Step=0
+self._loss < loss False : _loss=0.03494554730253198 // loss=0.03494551801537461 // Step=0
+self._loss < loss False : _loss=0.03494551801537461 // loss=0.03494547982171877 // Step=0
+self._loss < loss False : _loss=0.03494547982171877 // loss=0.03494544752775495 // Step=0
+COUNT:0 // LR:0.090000 // STEP:8410 // EPOCH:260 // OFFSET:29 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494544752775495 // loss=0.034945412249584376 // Step=0
+self._loss < loss False : _loss=0.034945412249584376 // loss=0.03494537930319982 // Step=0
+self._loss < loss False : _loss=0.03494537930319982 // loss=0.034945344787015595 // Step=0
+self._loss < loss False : _loss=0.034945344787015595 // loss=0.03494531287328363 // Step=0
+self._loss < loss False : _loss=0.03494531287328363 // loss=0.034945278841079785 // Step=0
+COUNT:0 // LR:0.090000 // STEP:8571 // EPOCH:265 // OFFSET:26 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034945278841079785 // loss=0.034945243058848705 // Step=0
+self._loss < loss False : _loss=0.034945243058848705 // loss=0.034945208031849445 // Step=0
+self._loss < loss False : _loss=0.034945208031849445 // loss=0.034945176956474276 // Step=0
+self._loss < loss False : _loss=0.034945176956474276 // loss=0.034945138567624254 // Step=0
+self._loss < loss False : _loss=0.034945138567624254 // loss=0.034945100795865935 // Step=0
+COUNT:0 // LR:0.090000 // STEP:8732 // EPOCH:270 // OFFSET:23 // LEARN_COST:0.7202 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034945100795865935 // loss=0.034945064849821815 // Step=0
+self._loss < loss False : _loss=0.034945064849821815 // loss=0.034945028620822 // Step=0
+self._loss < loss False : _loss=0.034945028620822 // loss=0.034944991536913605 // Step=0
+self._loss < loss False : _loss=0.034944991536913605 // loss=0.03494495983430855 // Step=0
+self._loss < loss False : _loss=0.03494495983430855 // loss=0.03494492369399102 // Step=0
+COUNT:0 // LR:0.090000 // STEP:8893 // EPOCH:275 // OFFSET:20 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494492369399102 // loss=0.03494488800010336 // Step=0
+self._loss < loss False : _loss=0.03494488800010336 // loss=0.034944848101248656 // Step=0
+self._loss < loss False : _loss=0.034944848101248656 // loss=0.034944808465852524 // Step=0
+self._loss < loss False : _loss=0.034944808465852524 // loss=0.03494476888074174 // Step=0
+self._loss < loss False : _loss=0.03494476888074174 // loss=0.034944729715115315 // Step=0
+COUNT:0 // LR:0.090000 // STEP:9054 // EPOCH:280 // OFFSET:17 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034944729715115315 // loss=0.03494469164404117 // Step=0
+self._loss < loss False : _loss=0.03494469164404117 // loss=0.034944653659928465 // Step=0
+self._loss < loss False : _loss=0.034944653659928465 // loss=0.034944615781226554 // Step=0
+self._loss < loss False : _loss=0.034944615781226554 // loss=0.034944575717291114 // Step=0
+self._loss < loss False : _loss=0.034944575717291114 // loss=0.03494453917007314 // Step=0
+COUNT:0 // LR:0.090000 // STEP:9215 // EPOCH:285 // OFFSET:14 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494453917007314 // loss=0.034944498939493265 // Step=0
+self._loss < loss False : _loss=0.034944498939493265 // loss=0.03494445856523739 // Step=0
+self._loss < loss False : _loss=0.03494445856523739 // loss=0.03494441655666661 // Step=0
+self._loss < loss False : _loss=0.03494441655666661 // loss=0.034944374734115685 // Step=0
+self._loss < loss False : _loss=0.034944374734115685 // loss=0.03494433393604673 // Step=0
+COUNT:0 // LR:0.090000 // STEP:9376 // EPOCH:290 // OFFSET:11 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494433393604673 // loss=0.03494429168009646 // Step=0
+self._loss < loss False : _loss=0.03494429168009646 // loss=0.03494425149200536 // Step=0
+self._loss < loss False : _loss=0.03494425149200536 // loss=0.03494421071758387 // Step=0
+self._loss < loss False : _loss=0.03494421071758387 // loss=0.03494416741225713 // Step=0
+self._loss < loss False : _loss=0.03494416741225713 // loss=0.03494412606541172 // Step=0
+COUNT:0 // LR:0.090000 // STEP:9537 // EPOCH:295 // OFFSET:8 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494412606541172 // loss=0.034944080851791855 // Step=0
+self._loss < loss False : _loss=0.034944080851791855 // loss=0.034944038391208736 // Step=0
+self._loss < loss False : _loss=0.034944038391208736 // loss=0.03494399227916911 // Step=0
+self._loss < loss False : _loss=0.03494399227916911 // loss=0.034943950349435426 // Step=0
+self._loss < loss False : _loss=0.034943950349435426 // loss=0.034943903779259676 // Step=0
+COUNT:0 // LR:0.090000 // STEP:9698 // EPOCH:300 // OFFSET:5 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034943903779259676 // loss=0.03494386278898071 // Step=0
+self._loss < loss False : _loss=0.03494386278898071 // loss=0.034943814943292635 // Step=0
+self._loss < loss False : _loss=0.034943814943292635 // loss=0.03494377017084754 // Step=0
+self._loss < loss False : _loss=0.03494377017084754 // loss=0.03494372595113043 // Step=0
+self._loss < loss False : _loss=0.03494372595113043 // loss=0.03494367687071854 // Step=0
+COUNT:0 // LR:0.090000 // STEP:9859 // EPOCH:305 // OFFSET:2 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494367687071854 // loss=0.03494362903018114 // Step=0
+self._loss < loss False : _loss=0.03494362903018114 // loss=0.034943579282131425 // Step=0
+self._loss < loss False : _loss=0.034943579282131425 // loss=0.03494353452229015 // Step=0
+self._loss < loss False : _loss=0.03494353452229015 // loss=0.03494349195211943 // Step=0
+self._loss < loss False : _loss=0.03494349195211943 // loss=0.03494344165060646 // Step=0
+COUNT:0 // LR:0.090000 // STEP:10021 // EPOCH:310 // OFFSET:31 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494344165060646 // loss=0.034943392954851 // Step=0
+self._loss < loss False : _loss=0.034943392954851 // loss=0.034943342158411626 // Step=0
+self._loss < loss False : _loss=0.034943342158411626 // loss=0.03494329033910444 // Step=0
+self._loss < loss False : _loss=0.03494329033910444 // loss=0.03494324383365385 // Step=0
+self._loss < loss False : _loss=0.03494324383365385 // loss=0.03494319354224901 // Step=0
+COUNT:0 // LR:0.090000 // STEP:10182 // EPOCH:315 // OFFSET:28 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494319354224901 // loss=0.03494314187805135 // Step=0
+self._loss < loss False : _loss=0.03494314187805135 // loss=0.034943092078696086 // Step=0
+self._loss < loss False : _loss=0.034943092078696086 // loss=0.034943044502172046 // Step=0
+self._loss < loss False : _loss=0.034943044502172046 // loss=0.03494299463886796 // Step=0
+self._loss < loss False : _loss=0.03494299463886796 // loss=0.03494293755607357 // Step=0
+COUNT:0 // LR:0.090000 // STEP:10343 // EPOCH:320 // OFFSET:25 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494293755607357 // loss=0.034942881463187775 // Step=0
+self._loss < loss False : _loss=0.034942881463187775 // loss=0.03494283202348309 // Step=0
+self._loss < loss False : _loss=0.03494283202348309 // loss=0.0349427784682597 // Step=0
+self._loss < loss False : _loss=0.0349427784682597 // loss=0.034942725612800055 // Step=0
+self._loss < loss False : _loss=0.034942725612800055 // loss=0.03494267053711056 // Step=0
+COUNT:0 // LR:0.090000 // STEP:10504 // EPOCH:325 // OFFSET:22 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494267053711056 // loss=0.03494261722538651 // Step=0
+self._loss < loss False : _loss=0.03494261722538651 // loss=0.03494256104984274 // Step=0
+self._loss < loss False : _loss=0.03494256104984274 // loss=0.03494250244874283 // Step=0
+self._loss < loss False : _loss=0.03494250244874283 // loss=0.03494244711925037 // Step=0
+self._loss < loss False : _loss=0.03494244711925037 // loss=0.034942389940988076 // Step=0
+COUNT:0 // LR:0.090000 // STEP:10665 // EPOCH:330 // OFFSET:19 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034942389940988076 // loss=0.034942332062548924 // Step=0
+self._loss < loss False : _loss=0.034942332062548924 // loss=0.03494227876490574 // Step=0
+self._loss < loss False : _loss=0.03494227876490574 // loss=0.03494221750102068 // Step=0
+self._loss < loss False : _loss=0.03494221750102068 // loss=0.03494215696523088 // Step=0
+self._loss < loss False : _loss=0.03494215696523088 // loss=0.03494209982626138 // Step=0
+COUNT:0 // LR:0.090000 // STEP:10826 // EPOCH:335 // OFFSET:16 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494209982626138 // loss=0.03494204054118026 // Step=0
+self._loss < loss False : _loss=0.03494204054118026 // loss=0.03494198480825118 // Step=0
+self._loss < loss False : _loss=0.03494198480825118 // loss=0.03494191886839901 // Step=0
+self._loss < loss False : _loss=0.03494191886839901 // loss=0.034941856612777746 // Step=0
+self._loss < loss False : _loss=0.034941856612777746 // loss=0.03494179396015107 // Step=0
+COUNT:0 // LR:0.090000 // STEP:10987 // EPOCH:340 // OFFSET:13 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494179396015107 // loss=0.03494173188645421 // Step=0
+self._loss < loss False : _loss=0.03494173188645421 // loss=0.03494167015729239 // Step=0
+self._loss < loss False : _loss=0.03494167015729239 // loss=0.03494160584352817 // Step=0
+self._loss < loss False : _loss=0.03494160584352817 // loss=0.03494154161132909 // Step=0
+self._loss < loss False : _loss=0.03494154161132909 // loss=0.03494147630276384 // Step=0
+COUNT:0 // LR:0.090000 // STEP:11148 // EPOCH:345 // OFFSET:10 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494147630276384 // loss=0.03494141136540213 // Step=0
+self._loss < loss False : _loss=0.03494141136540213 // loss=0.03494134553831703 // Step=0
+self._loss < loss False : _loss=0.03494134553831703 // loss=0.034941276276165854 // Step=0
+self._loss < loss False : _loss=0.034941276276165854 // loss=0.03494121213948549 // Step=0
+self._loss < loss False : _loss=0.03494121213948549 // loss=0.034941142674013374 // Step=0
+COUNT:0 // LR:0.090000 // STEP:11309 // EPOCH:350 // OFFSET:7 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034941142674013374 // loss=0.03494107730021008 // Step=0
+self._loss < loss False : _loss=0.03494107730021008 // loss=0.03494101247621725 // Step=0
+self._loss < loss False : _loss=0.03494101247621725 // loss=0.03494093836520612 // Step=0
+self._loss < loss False : _loss=0.03494093836520612 // loss=0.03494086768193711 // Step=0
+self._loss < loss False : _loss=0.03494086768193711 // loss=0.034940797047850476 // Step=0
+COUNT:0 // LR:0.090000 // STEP:11470 // EPOCH:355 // OFFSET:4 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034940797047850476 // loss=0.03494072882516526 // Step=0
+self._loss < loss False : _loss=0.03494072882516526 // loss=0.03494065239592487 // Step=0
+self._loss < loss False : _loss=0.03494065239592487 // loss=0.03494057833827146 // Step=0
+self._loss < loss False : _loss=0.03494057833827146 // loss=0.034940507656291364 // Step=0
+self._loss < loss False : _loss=0.034940507656291364 // loss=0.03494043294507557 // Step=0
+COUNT:0 // LR:0.090000 // STEP:11631 // EPOCH:360 // OFFSET:1 // LEARN_COST:0.7201 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494043294507557 // loss=0.03494035807465037 // Step=0
+self._loss < loss False : _loss=0.03494035807465037 // loss=0.03494027864158713 // Step=0
+self._loss < loss False : _loss=0.03494027864158713 // loss=0.03494020537486786 // Step=0
+self._loss < loss False : _loss=0.03494020537486786 // loss=0.03494012872384652 // Step=0
+self._loss < loss False : _loss=0.03494012872384652 // loss=0.03494004911199819 // Step=0
+COUNT:0 // LR:0.090000 // STEP:11793 // EPOCH:365 // OFFSET:30 // LEARN_COST:0.7200 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03494004911199819 // loss=0.03493997115858556 // Step=0
+self._loss < loss False : _loss=0.03493997115858556 // loss=0.034939889770769436 // Step=0
+self._loss < loss False : _loss=0.034939889770769436 // loss=0.0349398094172585 // Step=0
+self._loss < loss False : _loss=0.0349398094172585 // loss=0.03493973425966666 // Step=0
+self._loss < loss False : _loss=0.03493973425966666 // loss=0.034939650707936865 // Step=0
+COUNT:0 // LR:0.090000 // STEP:11954 // EPOCH:370 // OFFSET:27 // LEARN_COST:0.7200 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034939650707936865 // loss=0.03493956865401177 // Step=0
+self._loss < loss False : _loss=0.03493956865401177 // loss=0.03493948005645106 // Step=0
+self._loss < loss False : _loss=0.03493948005645106 // loss=0.03493939691123672 // Step=0
+self._loss < loss False : _loss=0.03493939691123672 // loss=0.034939311953140685 // Step=0
+self._loss < loss False : _loss=0.034939311953140685 // loss=0.03493922628011923 // Step=0
+COUNT:0 // LR:0.090000 // STEP:12115 // EPOCH:375 // OFFSET:24 // LEARN_COST:0.7200 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03493922628011923 // loss=0.03493913884624815 // Step=0
+self._loss < loss False : _loss=0.03493913884624815 // loss=0.034939053023530696 // Step=0
+self._loss < loss False : _loss=0.034939053023530696 // loss=0.03493896460948685 // Step=0
+self._loss < loss False : _loss=0.03493896460948685 // loss=0.03493887381705513 // Step=0
+self._loss < loss False : _loss=0.03493887381705513 // loss=0.03493878498428868 // Step=0
+COUNT:0 // LR:0.090000 // STEP:12276 // EPOCH:380 // OFFSET:21 // LEARN_COST:0.7200 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03493878498428868 // loss=0.03493869285351866 // Step=0
+self._loss < loss False : _loss=0.03493869285351866 // loss=0.03493859974950845 // Step=0
+self._loss < loss False : _loss=0.03493859974950845 // loss=0.03493850959600059 // Step=0
+self._loss < loss False : _loss=0.03493850959600059 // loss=0.03493841488397075 // Step=0
+self._loss < loss False : _loss=0.03493841488397075 // loss=0.0349383173325216 // Step=0
+COUNT:0 // LR:0.090000 // STEP:12437 // EPOCH:385 // OFFSET:18 // LEARN_COST:0.7200 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.0349383173325216 // loss=0.03493821993702378 // Step=0
+self._loss < loss False : _loss=0.03493821993702378 // loss=0.034938124185646645 // Step=0
+self._loss < loss False : _loss=0.034938124185646645 // loss=0.0349380265054875 // Step=0
+self._loss < loss False : _loss=0.0349380265054875 // loss=0.034937921521062454 // Step=0
+self._loss < loss False : _loss=0.034937921521062454 // loss=0.03493782390624413 // Step=0
+COUNT:0 // LR:0.090000 // STEP:12598 // EPOCH:390 // OFFSET:15 // LEARN_COST:0.7200 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03493782390624413 // loss=0.03493772213774754 // Step=0
+self._loss < loss False : _loss=0.03493772213774754 // loss=0.034937620532021395 // Step=0
+self._loss < loss False : _loss=0.034937620532021395 // loss=0.03493751694732362 // Step=0
+self._loss < loss False : _loss=0.03493751694732362 // loss=0.03493741588385221 // Step=0
+self._loss < loss False : _loss=0.03493741588385221 // loss=0.03493730898219911 // Step=0
+COUNT:0 // LR:0.090000 // STEP:12759 // EPOCH:395 // OFFSET:12 // LEARN_COST:0.7200 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03493730898219911 // loss=0.03493719748667323 // Step=0
+self._loss < loss False : _loss=0.03493719748667323 // loss=0.03493709421308918 // Step=0
+self._loss < loss False : _loss=0.03493709421308918 // loss=0.034936981681442596 // Step=0
+self._loss < loss False : _loss=0.034936981681442596 // loss=0.03493686754110195 // Step=0
+self._loss < loss False : _loss=0.03493686754110195 // loss=0.03493676222176066 // Step=0
+COUNT:0 // LR:0.090000 // STEP:12920 // EPOCH:400 // OFFSET:9 // LEARN_COST:0.7200 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03493676222176066 // loss=0.034936648367338015 // Step=0
+self._loss < loss False : _loss=0.034936648367338015 // loss=0.03493653552519725 // Step=0
+self._loss < loss False : _loss=0.03493653552519725 // loss=0.034936417797379986 // Step=0
+self._loss < loss False : _loss=0.034936417797379986 // loss=0.03493630179899642 // Step=0
+self._loss < loss False : _loss=0.03493630179899642 // loss=0.03493618112813003 // Step=0
+COUNT:0 // LR:0.090000 // STEP:13081 // EPOCH:405 // OFFSET:6 // LEARN_COST:0.7200 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03493618112813003 // loss=0.0349360631961418 // Step=0
+self._loss < loss False : _loss=0.0349360631961418 // loss=0.0349359407272268 // Step=0
+self._loss < loss False : _loss=0.0349359407272268 // loss=0.034935818139222044 // Step=0
+self._loss < loss False : _loss=0.034935818139222044 // loss=0.03493569718790704 // Step=0
+self._loss < loss False : _loss=0.03493569718790704 // loss=0.03493557603847206 // Step=0
+COUNT:0 // LR:0.090000 // STEP:13242 // EPOCH:410 // OFFSET:3 // LEARN_COST:0.7200 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03493557603847206 // loss=0.03493544580466544 // Step=0
+self._loss < loss False : _loss=0.03493544580466544 // loss=0.03493531515634817 // Step=0
+self._loss < loss False : _loss=0.03493531515634817 // loss=0.034935187676795376 // Step=0
+self._loss < loss False : _loss=0.034935187676795376 // loss=0.034935058106931816 // Step=0
+self._loss < loss False : _loss=0.034935058106931816 // loss=0.034934927285366894 // Step=0
+COUNT:0 // LR:0.090000 // STEP:13403 // EPOCH:415 // OFFSET:0 // LEARN_COST:0.7199 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034934927285366894 // loss=0.03493478963194214 // Step=0
+self._loss < loss False : _loss=0.03493478963194214 // loss=0.03493465399543714 // Step=0
+self._loss < loss False : _loss=0.03493465399543714 // loss=0.03493452015188825 // Step=0
+self._loss < loss False : _loss=0.03493452015188825 // loss=0.03493438260440493 // Step=0
+self._loss < loss False : _loss=0.03493438260440493 // loss=0.0349342400833141 // Step=0
+COUNT:0 // LR:0.090000 // STEP:13565 // EPOCH:420 // OFFSET:29 // LEARN_COST:0.7199 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.0349342400833141 // loss=0.03493409886249834 // Step=0
+self._loss < loss False : _loss=0.03493409886249834 // loss=0.03493395764864215 // Step=0
+self._loss < loss False : _loss=0.03493395764864215 // loss=0.03493381188089747 // Step=0
+self._loss < loss False : _loss=0.03493381188089747 // loss=0.03493366312773954 // Step=0
+self._loss < loss False : _loss=0.03493366312773954 // loss=0.03493351257749721 // Step=0
+COUNT:0 // LR:0.090000 // STEP:13726 // EPOCH:425 // OFFSET:26 // LEARN_COST:0.7199 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03493351257749721 // loss=0.034933361316695194 // Step=0
+self._loss < loss False : _loss=0.034933361316695194 // loss=0.034933209046432816 // Step=0
+self._loss < loss False : _loss=0.034933209046432816 // loss=0.03493305237136588 // Step=0
+self._loss < loss False : _loss=0.03493305237136588 // loss=0.03493290049124323 // Step=0
+self._loss < loss False : _loss=0.03493290049124323 // loss=0.03493273767174031 // Step=0
+COUNT:0 // LR:0.090000 // STEP:13887 // EPOCH:430 // OFFSET:23 // LEARN_COST:0.7199 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03493273767174031 // loss=0.034932578777438696 // Step=0
+self._loss < loss False : _loss=0.034932578777438696 // loss=0.03493241643818943 // Step=0
+self._loss < loss False : _loss=0.03493241643818943 // loss=0.034932250818910424 // Step=0
+self._loss < loss False : _loss=0.034932250818910424 // loss=0.03493208688504099 // Step=0
+self._loss < loss False : _loss=0.03493208688504099 // loss=0.034931915989372196 // Step=0
+COUNT:0 // LR:0.090000 // STEP:14048 // EPOCH:435 // OFFSET:20 // LEARN_COST:0.7199 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034931915989372196 // loss=0.034931745814499864 // Step=0
+self._loss < loss False : _loss=0.034931745814499864 // loss=0.03493157469134593 // Step=0
+self._loss < loss False : _loss=0.03493157469134593 // loss=0.034931400036068413 // Step=0
+self._loss < loss False : _loss=0.034931400036068413 // loss=0.03493121929899667 // Step=0
+self._loss < loss False : _loss=0.03493121929899667 // loss=0.034931041505883324 // Step=0
+COUNT:0 // LR:0.090000 // STEP:14209 // EPOCH:440 // OFFSET:17 // LEARN_COST:0.7199 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034931041505883324 // loss=0.0349308583863143 // Step=0
+self._loss < loss False : _loss=0.0349308583863143 // loss=0.034930676715993564 // Step=0
+self._loss < loss False : _loss=0.034930676715993564 // loss=0.0349304925831719 // Step=0
+self._loss < loss False : _loss=0.0349304925831719 // loss=0.0349302931838706 // Step=0
+self._loss < loss False : _loss=0.0349302931838706 // loss=0.034930106057106926 // Step=0
+COUNT:0 // LR:0.090000 // STEP:14370 // EPOCH:445 // OFFSET:14 // LEARN_COST:0.7198 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034930106057106926 // loss=0.03492991024318767 // Step=0
+self._loss < loss False : _loss=0.03492991024318767 // loss=0.0349297154514599 // Step=0
+self._loss < loss False : _loss=0.0349297154514599 // loss=0.03492951522800378 // Step=0
+self._loss < loss False : _loss=0.03492951522800378 // loss=0.03492930951477355 // Step=0
+self._loss < loss False : _loss=0.03492930951477355 // loss=0.03492910710206476 // Step=0
+COUNT:0 // LR:0.090000 // STEP:14531 // EPOCH:450 // OFFSET:11 // LEARN_COST:0.7198 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03492910710206476 // loss=0.0349289020899653 // Step=0
+self._loss < loss False : _loss=0.0349289020899653 // loss=0.03492869091330971 // Step=0
+self._loss < loss False : _loss=0.03492869091330971 // loss=0.03492847367509729 // Step=0
+self._loss < loss False : _loss=0.03492847367509729 // loss=0.034928254397691 // Step=0
+self._loss < loss False : _loss=0.034928254397691 // loss=0.03492803747381204 // Step=0
+COUNT:0 // LR:0.090000 // STEP:14692 // EPOCH:455 // OFFSET:8 // LEARN_COST:0.7198 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03492803747381204 // loss=0.03492781798792366 // Step=0
+self._loss < loss False : _loss=0.03492781798792366 // loss=0.03492759004684815 // Step=0
+self._loss < loss False : _loss=0.03492759004684815 // loss=0.03492735464885618 // Step=0
+self._loss < loss False : _loss=0.03492735464885618 // loss=0.03492712764162477 // Step=0
+self._loss < loss False : _loss=0.03492712764162477 // loss=0.03492689547566587 // Step=0
+COUNT:0 // LR:0.090000 // STEP:14853 // EPOCH:460 // OFFSET:5 // LEARN_COST:0.7198 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03492689547566587 // loss=0.03492665860863074 // Step=0
+self._loss < loss False : _loss=0.03492665860863074 // loss=0.03492641037609277 // Step=0
+self._loss < loss False : _loss=0.03492641037609277 // loss=0.03492616150595352 // Step=0
+self._loss < loss False : _loss=0.03492616150595352 // loss=0.034925914672277895 // Step=0
+self._loss < loss False : _loss=0.034925914672277895 // loss=0.034925666671083454 // Step=0
+COUNT:0 // LR:0.090000 // STEP:15014 // EPOCH:465 // OFFSET:2 // LEARN_COST:0.7197 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034925666671083454 // loss=0.03492541055212247 // Step=0
+self._loss < loss False : _loss=0.03492541055212247 // loss=0.03492514710205376 // Step=0
+self._loss < loss False : _loss=0.03492514710205376 // loss=0.034924877411771194 // Step=0
+self._loss < loss False : _loss=0.034924877411771194 // loss=0.034924613300155755 // Step=0
+self._loss < loss False : _loss=0.034924613300155755 // loss=0.03492434310650808 // Step=0
+COUNT:0 // LR:0.090000 // STEP:15176 // EPOCH:470 // OFFSET:31 // LEARN_COST:0.7197 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03492434310650808 // loss=0.03492406053520563 // Step=0
+self._loss < loss False : _loss=0.03492406053520563 // loss=0.03492378184962382 // Step=0
+self._loss < loss False : _loss=0.03492378184962382 // loss=0.03492349737954582 // Step=0
+self._loss < loss False : _loss=0.03492349737954582 // loss=0.034923210613659744 // Step=0
+self._loss < loss False : _loss=0.034923210613659744 // loss=0.03492292037177912 // Step=0
+COUNT:0 // LR:0.090000 // STEP:15337 // EPOCH:475 // OFFSET:28 // LEARN_COST:0.7197 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03492292037177912 // loss=0.03492261130675938 // Step=0
+self._loss < loss False : _loss=0.03492261130675938 // loss=0.034922315291067534 // Step=0
+self._loss < loss False : _loss=0.034922315291067534 // loss=0.0349220082078293 // Step=0
+self._loss < loss False : _loss=0.0349220082078293 // loss=0.034921694969636 // Step=0
+self._loss < loss False : _loss=0.034921694969636 // loss=0.034921386444791896 // Step=0
+COUNT:0 // LR:0.090000 // STEP:15498 // EPOCH:480 // OFFSET:25 // LEARN_COST:0.7197 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034921386444791896 // loss=0.0349210540583864 // Step=0
+self._loss < loss False : _loss=0.0349210540583864 // loss=0.034920724207206946 // Step=0
+self._loss < loss False : _loss=0.034920724207206946 // loss=0.03492039878434742 // Step=0
+self._loss < loss False : _loss=0.03492039878434742 // loss=0.034920063206615504 // Step=0
+self._loss < loss False : _loss=0.034920063206615504 // loss=0.03491971144660151 // Step=0
+COUNT:0 // LR:0.090000 // STEP:15659 // EPOCH:485 // OFFSET:22 // LEARN_COST:0.7196 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03491971144660151 // loss=0.034919362079136124 // Step=0
+self._loss < loss False : _loss=0.034919362079136124 // loss=0.034919008183086124 // Step=0
+self._loss < loss False : _loss=0.034919008183086124 // loss=0.03491865600541323 // Step=0
+self._loss < loss False : _loss=0.03491865600541323 // loss=0.034918287855306235 // Step=0
+self._loss < loss False : _loss=0.034918287855306235 // loss=0.034917905062626056 // Step=0
+COUNT:0 // LR:0.090000 // STEP:15820 // EPOCH:490 // OFFSET:19 // LEARN_COST:0.7196 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034917905062626056 // loss=0.034917529259598075 // Step=0
+self._loss < loss False : _loss=0.034917529259598075 // loss=0.03491715002017845 // Step=0
+self._loss < loss False : _loss=0.03491715002017845 // loss=0.03491675939421032 // Step=0
+self._loss < loss False : _loss=0.03491675939421032 // loss=0.034916351357921184 // Step=0
+self._loss < loss False : _loss=0.034916351357921184 // loss=0.03491594879698533 // Step=0
+COUNT:0 // LR:0.090000 // STEP:15981 // EPOCH:495 // OFFSET:16 // LEARN_COST:0.7196 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03491594879698533 // loss=0.034915540477784904 // Step=0
+self._loss < loss False : _loss=0.034915540477784904 // loss=0.03491512245942165 // Step=0
+self._loss < loss False : _loss=0.03491512245942165 // loss=0.034914698647185285 // Step=0
+self._loss < loss False : _loss=0.034914698647185285 // loss=0.034914257385421685 // Step=0
+self._loss < loss False : _loss=0.034914257385421685 // loss=0.03491381425865944 // Step=0
+COUNT:0 // LR:0.090000 // STEP:16142 // EPOCH:500 // OFFSET:13 // LEARN_COST:0.7195 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03491381425865944 // loss=0.034913370240477484 // Step=0
+self._loss < loss False : _loss=0.034913370240477484 // loss=0.034912914626453816 // Step=0
+self._loss < loss False : _loss=0.034912914626453816 // loss=0.034912440884063645 // Step=0
+self._loss < loss False : _loss=0.034912440884063645 // loss=0.03491196760615006 // Step=0
+self._loss < loss False : _loss=0.03491196760615006 // loss=0.034911486902648836 // Step=0
+COUNT:0 // LR:0.090000 // STEP:16303 // EPOCH:505 // OFFSET:10 // LEARN_COST:0.7195 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034911486902648836 // loss=0.034911000282120706 // Step=0
+self._loss < loss False : _loss=0.034911000282120706 // loss=0.03491050039596371 // Step=0
+self._loss < loss False : _loss=0.03491050039596371 // loss=0.034909980700952886 // Step=0
+self._loss < loss False : _loss=0.034909980700952886 // loss=0.03490946294609504 // Step=0
+self._loss < loss False : _loss=0.03490946294609504 // loss=0.034908939826934715 // Step=0
+COUNT:0 // LR:0.090000 // STEP:16464 // EPOCH:510 // OFFSET:7 // LEARN_COST:0.7194 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034908939826934715 // loss=0.034908403173733234 // Step=0
+self._loss < loss False : _loss=0.034908403173733234 // loss=0.0349078566625078 // Step=0
+self._loss < loss False : _loss=0.0349078566625078 // loss=0.0349072844714708 // Step=0
+self._loss < loss False : _loss=0.0349072844714708 // loss=0.03490671456306413 // Step=0
+self._loss < loss False : _loss=0.03490671456306413 // loss=0.03490614041651264 // Step=0
+COUNT:0 // LR:0.090000 // STEP:16625 // EPOCH:515 // OFFSET:4 // LEARN_COST:0.7193 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03490614041651264 // loss=0.03490555064337025 // Step=0
+self._loss < loss False : _loss=0.03490555064337025 // loss=0.03490493170363545 // Step=0
+self._loss < loss False : _loss=0.03490493170363545 // loss=0.03490431957534557 // Step=0
+self._loss < loss False : _loss=0.03490431957534557 // loss=0.03490369428456753 // Step=0
+self._loss < loss False : _loss=0.03490369428456753 // loss=0.03490305865919655 // Step=0
+COUNT:0 // LR:0.090000 // STEP:16786 // EPOCH:520 // OFFSET:1 // LEARN_COST:0.7193 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03490305865919655 // loss=0.03490240731408704 // Step=0
+self._loss < loss False : _loss=0.03490240731408704 // loss=0.034901724850014075 // Step=0
+self._loss < loss False : _loss=0.034901724850014075 // loss=0.03490105005721626 // Step=0
+self._loss < loss False : _loss=0.03490105005721626 // loss=0.03490035875633105 // Step=0
+self._loss < loss False : _loss=0.03490035875633105 // loss=0.034899654301108474 // Step=0
+COUNT:0 // LR:0.090000 // STEP:16948 // EPOCH:525 // OFFSET:30 // LEARN_COST:0.7192 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034899654301108474 // loss=0.03489891402492168 // Step=0
+self._loss < loss False : _loss=0.03489891402492168 // loss=0.03489817793498948 // Step=0
+self._loss < loss False : _loss=0.03489817793498948 // loss=0.03489742642267219 // Step=0
+self._loss < loss False : _loss=0.03489742642267219 // loss=0.03489666177143825 // Step=0
+self._loss < loss False : _loss=0.03489666177143825 // loss=0.0348958807100013 // Step=0
+COUNT:0 // LR:0.090000 // STEP:17109 // EPOCH:530 // OFFSET:27 // LEARN_COST:0.7191 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.0348958807100013 // loss=0.03489505773399443 // Step=0
+self._loss < loss False : _loss=0.03489505773399443 // loss=0.034894238709202115 // Step=0
+self._loss < loss False : _loss=0.034894238709202115 // loss=0.03489340444510586 // Step=0
+self._loss < loss False : _loss=0.03489340444510586 // loss=0.03489255375247145 // Step=0
+self._loss < loss False : _loss=0.03489255375247145 // loss=0.034891651760224504 // Step=0
+COUNT:0 // LR:0.090000 // STEP:17270 // EPOCH:535 // OFFSET:24 // LEARN_COST:0.7191 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034891651760224504 // loss=0.03489075956866848 // Step=0
+self._loss < loss False : _loss=0.03489075956866848 // loss=0.03488984991184218 // Step=0
+self._loss < loss False : _loss=0.03488984991184218 // loss=0.03488891370928809 // Step=0
+self._loss < loss False : _loss=0.03488891370928809 // loss=0.03488796059260125 // Step=0
+self._loss < loss False : _loss=0.03488796059260125 // loss=0.03488695192772576 // Step=0
+COUNT:0 // LR:0.090000 // STEP:17431 // EPOCH:540 // OFFSET:21 // LEARN_COST:0.7190 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03488695192772576 // loss=0.03488595448381922 // Step=0
+self._loss < loss False : _loss=0.03488595448381922 // loss=0.034884931518454655 // Step=0
+self._loss < loss False : _loss=0.034884931518454655 // loss=0.0348838831712744 // Step=0
+self._loss < loss False : _loss=0.0348838831712744 // loss=0.034882813574142725 // Step=0
+self._loss < loss False : _loss=0.034882813574142725 // loss=0.03488168127636585 // Step=0
+COUNT:0 // LR:0.090000 // STEP:17592 // EPOCH:545 // OFFSET:18 // LEARN_COST:0.7188 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03488168127636585 // loss=0.03488055514462073 // Step=0
+self._loss < loss False : _loss=0.03488055514462073 // loss=0.034879404875176045 // Step=0
+self._loss < loss False : _loss=0.034879404875176045 // loss=0.03487822262955146 // Step=0
+self._loss < loss False : _loss=0.03487822262955146 // loss=0.034876974760780804 // Step=0
+self._loss < loss False : _loss=0.034876974760780804 // loss=0.03487573482157761 // Step=0
+COUNT:0 // LR:0.090000 // STEP:17753 // EPOCH:550 // OFFSET:15 // LEARN_COST:0.7187 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03487573482157761 // loss=0.03487446338406655 // Step=0
+self._loss < loss False : _loss=0.03487446338406655 // loss=0.03487315937642379 // Step=0
+self._loss < loss False : _loss=0.03487315937642379 // loss=0.03487181584720088 // Step=0
+self._loss < loss False : _loss=0.03487181584720088 // loss=0.03487040218900781 // Step=0
+self._loss < loss False : _loss=0.03487040218900781 // loss=0.03486899022413887 // Step=0
+COUNT:0 // LR:0.090000 // STEP:17914 // EPOCH:555 // OFFSET:12 // LEARN_COST:0.7186 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03486899022413887 // loss=0.03486754306401096 // Step=0
+self._loss < loss False : _loss=0.03486754306401096 // loss=0.034866056994038566 // Step=0
+self._loss < loss False : _loss=0.034866056994038566 // loss=0.03486448203204883 // Step=0
+self._loss < loss False : _loss=0.03486448203204883 // loss=0.034862911635981056 // Step=0
+self._loss < loss False : _loss=0.034862911635981056 // loss=0.034861300573724496 // Step=0
+COUNT:0 // LR:0.090000 // STEP:18075 // EPOCH:560 // OFFSET:9 // LEARN_COST:0.7184 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.034861300573724496 // loss=0.03485964397258685 // Step=0
+self._loss < loss False : _loss=0.03485964397258685 // loss=0.03485794221114379 // Step=0
+self._loss < loss False : _loss=0.03485794221114379 // loss=0.03485613634060879 // Step=0
+self._loss < loss False : _loss=0.03485613634060879 // loss=0.03485433077517633 // Step=0
+self._loss < loss False : _loss=0.03485433077517633 // loss=0.03485247396650843 // Step=0
+COUNT:0 // LR:0.090000 // STEP:18236 // EPOCH:565 // OFFSET:6 // LEARN_COST:0.7182 // VALI_COST:0.0349 // MIN_COST:0.0349
+self._loss < loss False : _loss=0.03485247396650843 // loss=0.03485056678363766 // Step=0
+self._loss < loss False : _loss=0.03485056678363766 // loss=0.03484853860134515 // Step=0
+self._loss < loss False : _loss=0.03484853860134515 // loss=0.034846512493220835 // Step=0
+self._loss < loss False : _loss=0.034846512493220835 // loss=0.03484442557334544 // Step=0
+self._loss < loss False : _loss=0.03484442557334544 // loss=0.03484227550540976 // Step=0
+COUNT:0 // LR:0.090000 // STEP:18397 // EPOCH:570 // OFFSET:3 // LEARN_COST:0.7180 // VALI_COST:0.0348 // MIN_COST:0.0348
+self._loss < loss False : _loss=0.03484227550540976 // loss=0.03484006044598801 // Step=0
+self._loss < loss False : _loss=0.03484006044598801 // loss=0.034837699878681655 // Step=0
+self._loss < loss False : _loss=0.034837699878681655 // loss=0.034835343217045504 // Step=0
+self._loss < loss False : _loss=0.034835343217045504 // loss=0.03483290762282921 // Step=0
+self._loss < loss False : _loss=0.03483290762282921 // loss=0.034830395448302603 // Step=0
+COUNT:0 // LR:0.090000 // STEP:18558 // EPOCH:575 // OFFSET:0 // LEARN_COST:0.7178 // VALI_COST:0.0348 // MIN_COST:0.0348
+self._loss < loss False : _loss=0.034830395448302603 // loss=0.03482780150485162 // Step=0
+self._loss < loss False : _loss=0.03482780150485162 // loss=0.03482503789080618 // Step=0
+self._loss < loss False : _loss=0.03482503789080618 // loss=0.034822267266527054 // Step=0
+self._loss < loss False : _loss=0.034822267266527054 // loss=0.03481940039739108 // Step=0
+self._loss < loss False : _loss=0.03481940039739108 // loss=0.034816438451280095 // Step=0
+COUNT:0 // LR:0.090000 // STEP:18720 // EPOCH:580 // OFFSET:29 // LEARN_COST:0.7175 // VALI_COST:0.0348 // MIN_COST:0.0348
+self._loss < loss False : _loss=0.034816438451280095 // loss=0.03481327701866142 // Step=0
+self._loss < loss False : _loss=0.03481327701866142 // loss=0.03481010088782824 // Step=0
+self._loss < loss False : _loss=0.03481010088782824 // loss=0.034806813191482114 // Step=0
+self._loss < loss False : _loss=0.034806813191482114 // loss=0.03480340655384179 // Step=0
+self._loss < loss False : _loss=0.03480340655384179 // loss=0.03479987665032491 // Step=0
+COUNT:0 // LR:0.090000 // STEP:18881 // EPOCH:585 // OFFSET:26 // LEARN_COST:0.7171 // VALI_COST:0.0348 // MIN_COST:0.0348
+self._loss < loss False : _loss=0.03479987665032491 // loss=0.03479610142985539 // Step=0
+self._loss < loss False : _loss=0.03479610142985539 // loss=0.03479230028148639 // Step=0
+self._loss < loss False : _loss=0.03479230028148639 // loss=0.03478835503210853 // Step=0
+self._loss < loss False : _loss=0.03478835503210853 // loss=0.034784260228343813 // Step=0
+self._loss < loss False : _loss=0.034784260228343813 // loss=0.03477986823382211 // Step=0
+COUNT:0 // LR:0.090000 // STEP:19042 // EPOCH:590 // OFFSET:23 // LEARN_COST:0.7167 // VALI_COST:0.0348 // MIN_COST:0.0348
+self._loss < loss False : _loss=0.03477986823382211 // loss=0.03477543876866343 // Step=0
+self._loss < loss False : _loss=0.03477543876866343 // loss=0.034770836927163304 // Step=0
+self._loss < loss False : _loss=0.034770836927163304 // loss=0.034766043567053345 // Step=0
+self._loss < loss False : _loss=0.034766043567053345 // loss=0.034761051389031974 // Step=0
+self._loss < loss False : _loss=0.034761051389031974 // loss=0.03475568961487114 // Step=0
+COUNT:0 // LR:0.090000 // STEP:19203 // EPOCH:595 // OFFSET:20 // LEARN_COST:0.7162 // VALI_COST:0.0348 // MIN_COST:0.0348
+self._loss < loss False : _loss=0.03475568961487114 // loss=0.03475026208672533 // Step=0
+self._loss < loss False : _loss=0.03475026208672533 // loss=0.03474460244867974 // Step=0
+self._loss < loss False : _loss=0.03474460244867974 // loss=0.0347386937524011 // Step=0
+self._loss < loss False : _loss=0.0347386937524011 // loss=0.034732326833523994 // Step=0
+self._loss < loss False : _loss=0.034732326833523994 // loss=0.034725867361900975 // Step=0
+COUNT:0 // LR:0.090000 // STEP:19364 // EPOCH:600 // OFFSET:17 // LEARN_COST:0.7156 // VALI_COST:0.0347 // MIN_COST:0.0347
+self._loss < loss False : _loss=0.034725867361900975 // loss=0.034719109324224784 // Step=0
+self._loss < loss False : _loss=0.034719109324224784 // loss=0.034712037971792196 // Step=0
+self._loss < loss False : _loss=0.034712037971792196 // loss=0.03470462846939854 // Step=0
+self._loss < loss False : _loss=0.03470462846939854 // loss=0.034696615027968045 // Step=0
+self._loss < loss False : _loss=0.034696615027968045 // loss=0.034688453479724435 // Step=0
+COUNT:0 // LR:0.090000 // STEP:19525 // EPOCH:605 // OFFSET:14 // LEARN_COST:0.7148 // VALI_COST:0.0347 // MIN_COST:0.0347
+self._loss < loss False : _loss=0.034688453479724435 // loss=0.034679882385367705 // Step=0
+self._loss < loss False : _loss=0.034679882385367705 // loss=0.034670874800282706 // Step=0
+self._loss < loss False : _loss=0.034670874800282706 // loss=0.034661399299186456 // Step=0
+self._loss < loss False : _loss=0.034661399299186456 // loss=0.03465109997588048 // Step=0
+self._loss < loss False : _loss=0.03465109997588048 // loss=0.034640566785733844 // Step=0
+COUNT:0 // LR:0.090000 // STEP:19686 // EPOCH:610 // OFFSET:11 // LEARN_COST:0.7138 // VALI_COST:0.0346 // MIN_COST:0.0346
+self._loss < loss False : _loss=0.034640566785733844 // loss=0.034629452321416114 // Step=0
+self._loss < loss False : _loss=0.034629452321416114 // loss=0.03461771723040375 // Step=0
+self._loss < loss False : _loss=0.03461771723040375 // loss=0.03460490775713622 // Step=0
+self._loss < loss False : _loss=0.03460490775713622 // loss=0.03459175060054944 // Step=0
+self._loss < loss False : _loss=0.03459175060054944 // loss=0.034577807712841656 // Step=0
+COUNT:0 // LR:0.090000 // STEP:19847 // EPOCH:615 // OFFSET:8 // LEARN_COST:0.7125 // VALI_COST:0.0346 // MIN_COST:0.0346
+self._loss < loss False : _loss=0.034577807712841656 // loss=0.03456301433233357 // Step=0
+self._loss < loss False : _loss=0.03456301433233357 // loss=0.03454730021063125 // Step=0
+self._loss < loss False : _loss=0.03454730021063125 // loss=0.03453004768824943 // Step=0
+self._loss < loss False : _loss=0.03453004768824943 // loss=0.0345122115441563 // Step=0
+self._loss < loss False : _loss=0.0345122115441563 // loss=0.03449318555013107 // Step=0
+COUNT:0 // LR:0.090000 // STEP:20008 // EPOCH:620 // OFFSET:5 // LEARN_COST:0.7107 // VALI_COST:0.0345 // MIN_COST:0.0345
+self._loss < loss False : _loss=0.03449318555013107 // loss=0.03447286713519877 // Step=0
+self._loss < loss False : _loss=0.03447286713519877 // loss=0.03445042513153403 // Step=0
+self._loss < loss False : _loss=0.03445042513153403 // loss=0.03442708644742952 // Step=0
+self._loss < loss False : _loss=0.03442708644742952 // loss=0.03440203976752511 // Step=0
+self._loss < loss False : _loss=0.03440203976752511 // loss=0.03437511405449616 // Step=0
+COUNT:0 // LR:0.090000 // STEP:20169 // EPOCH:625 // OFFSET:2 // LEARN_COST:0.7081 // VALI_COST:0.0343 // MIN_COST:0.0343
+self._loss < loss False : _loss=0.03437511405449616 // loss=0.03434612185094578 // Step=0
+self._loss < loss False : _loss=0.03434612185094578 // loss=0.03431382693352762 // Step=0
+self._loss < loss False : _loss=0.03431382693352762 // loss=0.0342799366853854 // Step=0
+self._loss < loss False : _loss=0.0342799366853854 // loss=0.0342432349175089 // Step=0
+self._loss < loss False : _loss=0.0342432349175089 // loss=0.03420340770438697 // Step=0
+COUNT:0 // LR:0.090000 // STEP:20331 // EPOCH:630 // OFFSET:31 // LEARN_COST:0.7044 // VALI_COST:0.0342 // MIN_COST:0.0342
+self._loss < loss False : _loss=0.03420340770438697 // loss=0.0341586886284675 // Step=0
+self._loss < loss False : _loss=0.0341586886284675 // loss=0.034111368845463674 // Step=0
+self._loss < loss False : _loss=0.034111368845463674 // loss=0.03405968758025849 // Step=0
+self._loss < loss False : _loss=0.03405968758025849 // loss=0.03400311776235721 // Step=0
+self._loss < loss False : _loss=0.03400311776235721 // loss=0.033941056575152354 // Step=0
+COUNT:0 // LR:0.090000 // STEP:20492 // EPOCH:635 // OFFSET:28 // LEARN_COST:0.6988 // VALI_COST:0.0339 // MIN_COST:0.0339
+self._loss < loss False : _loss=0.033941056575152354 // loss=0.03387057928372658 // Step=0
+self._loss < loss False : _loss=0.03387057928372658 // loss=0.033795148801234604 // Step=0
+self._loss < loss False : _loss=0.033795148801234604 // loss=0.03371182935364314 // Step=0
+self._loss < loss False : _loss=0.03371182935364314 // loss=0.03361960509393915 // Step=0
+self._loss < loss False : _loss=0.03361960509393915 // loss=0.03351731646977236 // Step=0
+COUNT:0 // LR:0.090000 // STEP:20653 // EPOCH:640 // OFFSET:25 // LEARN_COST:0.6897 // VALI_COST:0.0334 // MIN_COST:0.0334
+self._loss < loss False : _loss=0.03351731646977236 // loss=0.03339990951641912 // Step=0
+self._loss < loss False : _loss=0.03339990951641912 // loss=0.03327301260571866 // Step=0
+self._loss < loss False : _loss=0.03327301260571866 // loss=0.033131648176887 // Step=0
+self._loss < loss False : _loss=0.033131648176887 // loss=0.032974089855583213 // Step=0
+self._loss < loss False : _loss=0.032974089855583213 // loss=0.03279272997394976 // Step=0
+COUNT:0 // LR:0.090000 // STEP:20814 // EPOCH:645 // OFFSET:22 // LEARN_COST:0.6746 // VALI_COST:0.0326 // MIN_COST:0.0326
+self._loss < loss False : _loss=0.03279272997394976 // loss=0.03259670842202063 // Step=0
+self._loss < loss False : _loss=0.03259670842202063 // loss=0.03237914067564198 // Step=0
+self._loss < loss False : _loss=0.03237914067564198 // loss=0.03213865017347187 // Step=0
+self._loss < loss False : _loss=0.03213865017347187 // loss=0.03187445909188304 // Step=0
+self._loss < loss False : _loss=0.03187445909188304 // loss=0.03157731926995713 // Step=0
+COUNT:0 // LR:0.090000 // STEP:20975 // EPOCH:650 // OFFSET:19 // LEARN_COST:0.6510 // VALI_COST:0.0313 // MIN_COST:0.0313
+self._loss < loss False : _loss=0.03157731926995713 // loss=0.0312666787466166 // Step=0
+self._loss < loss False : _loss=0.0312666787466166 // loss=0.03093694141746161 // Step=0
+self._loss < loss False : _loss=0.03093694141746161 // loss=0.03059298417661414 // Step=0
+self._loss < loss False : _loss=0.03059298417661414 // loss=0.030230410638333854 // Step=0
+self._loss < loss False : _loss=0.030230410638333854 // loss=0.02987938418654541 // Step=0
+COUNT:0 // LR:0.090000 // STEP:21136 // EPOCH:655 // OFFSET:16 // LEARN_COST:0.6239 // VALI_COST:0.0295 // MIN_COST:0.0295
+self._loss < loss False : _loss=0.02987938418654541 // loss=0.02953751948789806 // Step=0
+self._loss < loss False : _loss=0.02953751948789806 // loss=0.029212840973022902 // Step=0
+self._loss < loss False : _loss=0.029212840973022902 // loss=0.02891188660978166 // Step=0
+self._loss < loss False : _loss=0.02891188660978166 // loss=0.028630993154314957 // Step=0
+self._loss < loss False : _loss=0.028630993154314957 // loss=0.02838921394435486 // Step=0
+COUNT:0 // LR:0.090000 // STEP:21297 // EPOCH:660 // OFFSET:13 // LEARN_COST:0.6063 // VALI_COST:0.0282 // MIN_COST:0.0282
+self._loss < loss False : _loss=0.02838921394435486 // loss=0.02817741224302555 // Step=0
+self._loss < loss False : _loss=0.02817741224302555 // loss=0.027993814951783377 // Step=0
+self._loss < loss False : _loss=0.027993814951783377 // loss=0.027831116597247883 // Step=0
+self._loss < loss False : _loss=0.027831116597247883 // loss=0.02769592616590428 // Step=0
+self._loss < loss False : _loss=0.02769592616590428 // loss=0.02757972615069318 // Step=0
+COUNT:0 // LR:0.090000 // STEP:21458 // EPOCH:665 // OFFSET:10 // LEARN_COST:0.5974 // VALI_COST:0.0275 // MIN_COST:0.0275
+self._loss < loss False : _loss=0.02757972615069318 // loss=0.02747954601753716 // Step=0
+self._loss < loss False : _loss=0.02747954601753716 // loss=0.02739275883204902 // Step=0
+self._loss < loss False : _loss=0.02739275883204902 // loss=0.02731496361273293 // Step=0
+self._loss < loss False : _loss=0.02731496361273293 // loss=0.027248990852439828 // Step=0
+self._loss < loss False : _loss=0.027248990852439828 // loss=0.027190847060731382 // Step=0
+COUNT:0 // LR:0.090000 // STEP:21619 // EPOCH:670 // OFFSET:7 // LEARN_COST:0.5909 // VALI_COST:0.0271 // MIN_COST:0.0271
+self._loss < loss False : _loss=0.027190847060731382 // loss=0.027139376225411006 // Step=0
+self._loss < loss False : _loss=0.027139376225411006 // loss=0.027093648979935984 // Step=0
+self._loss < loss False : _loss=0.027093648979935984 // loss=0.02705177037662886 // Step=0
+self._loss < loss False : _loss=0.02705177037662886 // loss=0.027015711584372725 // Step=0
+self._loss < loss False : _loss=0.027015711584372725 // loss=0.026983704119332586 // Step=0
+COUNT:0 // LR:0.090000 // STEP:21780 // EPOCH:675 // OFFSET:4 // LEARN_COST:0.5854 // VALI_COST:0.0270 // MIN_COST:0.0270
+self._loss < loss False : _loss=0.026983704119332586 // loss=0.02695543468158507 // Step=0
+self._loss < loss False : _loss=0.02695543468158507 // loss=0.026929925467215864 // Step=0
+self._loss < loss False : _loss=0.026929925467215864 // loss=0.026908508052139794 // Step=0
+self._loss < loss False : _loss=0.026908508052139794 // loss=0.026890203041342136 // Step=0
+self._loss < loss False : _loss=0.026890203041342136 // loss=0.026874848947928662 // Step=0
+COUNT:0 // LR:0.090000 // STEP:21941 // EPOCH:680 // OFFSET:1 // LEARN_COST:0.5805 // VALI_COST:0.0269 // MIN_COST:0.0269
+self._loss < loss False : _loss=0.026874848947928662 // loss=0.026862327325406155 // Step=0
+self._loss < loss False : _loss=0.026862327325406155 // loss=0.02685223742429418 // Step=0
+self._loss < loss False : _loss=0.02685223742429418 // loss=0.026845078033706764 // Step=0
+self._loss < loss False : _loss=0.026845078033706764 // loss=0.026840356550329764 // Step=0
+self._loss < loss False : _loss=0.026840356550329764 // loss=0.026837946964419376 // Step=0
+COUNT:0 // LR:0.090000 // STEP:22103 // EPOCH:685 // OFFSET:30 // LEARN_COST:0.5764 // VALI_COST:0.0268 // MIN_COST:0.0268
+self._loss < loss False : _loss=0.026837946964419376 // loss=0.02683772592892888 // Step=0
+Early stopping function step : 1
+Early stopping function step : 2
+Early stopping function step : 3
+Early stopping function step : 4
+COUNT:0 // LR:0.090000 // STEP:22264 // EPOCH:690 // OFFSET:27 // LEARN_COST:0.5731 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 5
+Early stopping function step : 6
+Early stopping function step : 7
+Early stopping function step : 8
+Early stopping function step : 9
+COUNT:0 // LR:0.090000 // STEP:22425 // EPOCH:695 // OFFSET:24 // LEARN_COST:0.5703 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 10
+Early stopping function step : 11
+Early stopping function step : 12
+Early stopping function step : 13
+Early stopping function step : 14
+COUNT:0 // LR:0.090000 // STEP:22586 // EPOCH:700 // OFFSET:21 // LEARN_COST:0.5679 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 15
+Early stopping function step : 16
+Early stopping function step : 17
+Early stopping function step : 18
+Early stopping function step : 19
+COUNT:0 // LR:0.090000 // STEP:22747 // EPOCH:705 // OFFSET:18 // LEARN_COST:0.5658 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 20
+Early stopping function step : 21
+Early stopping function step : 22
+Early stopping function step : 23
+Early stopping function step : 24
+COUNT:0 // LR:0.090000 // STEP:22908 // EPOCH:710 // OFFSET:15 // LEARN_COST:0.5638 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 25
+Early stopping function step : 26
+Early stopping function step : 27
+Early stopping function step : 28
+Early stopping function step : 29
+COUNT:0 // LR:0.090000 // STEP:23069 // EPOCH:715 // OFFSET:12 // LEARN_COST:0.5620 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 30
+Early stopping function step : 31
+Early stopping function step : 32
+Early stopping function step : 33
+Early stopping function step : 34
+COUNT:0 // LR:0.090000 // STEP:23230 // EPOCH:720 // OFFSET:9 // LEARN_COST:0.5602 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 35
+Early stopping function step : 36
+Early stopping function step : 37
+Early stopping function step : 38
+Early stopping function step : 39
+COUNT:0 // LR:0.090000 // STEP:23391 // EPOCH:725 // OFFSET:6 // LEARN_COST:0.5585 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 40
+Early stopping function step : 41
+Early stopping function step : 42
+Early stopping function step : 43
+Early stopping function step : 44
+COUNT:0 // LR:0.090000 // STEP:23552 // EPOCH:730 // OFFSET:3 // LEARN_COST:0.5568 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 45
+Early stopping function step : 46
+Early stopping function step : 47
+Early stopping function step : 48
+Early stopping function step : 49
+COUNT:0 // LR:0.090000 // STEP:23713 // EPOCH:735 // OFFSET:0 // LEARN_COST:0.5552 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 50
+Early stopping function step : 51
+Early stopping function step : 52
+Early stopping function step : 53
+Early stopping function step : 54
+COUNT:0 // LR:0.090000 // STEP:23875 // EPOCH:740 // OFFSET:29 // LEARN_COST:0.5537 // VALI_COST:0.0276 // MIN_COST:0.0268
+Early stopping function step : 55
+Early stopping function step : 56
+Early stopping function step : 57
+Early stopping function step : 58
+Early stopping function step : 59
+COUNT:0 // LR:0.090000 // STEP:24036 // EPOCH:745 // OFFSET:26 // LEARN_COST:0.5523 // VALI_COST:0.0276 // MIN_COST:0.0268
+Early stopping function step : 60
+Early stopping function step : 61
+Early stopping function step : 62
+Early stopping function step : 63
+Early stopping function step : 64
+COUNT:0 // LR:0.090000 // STEP:24197 // EPOCH:750 // OFFSET:23 // LEARN_COST:0.5510 // VALI_COST:0.0277 // MIN_COST:0.0268
+Early stopping function step : 65
+Early stopping function step : 66
+Early stopping function step : 67
+Early stopping function step : 68
+Early stopping function step : 69
+COUNT:0 // LR:0.090000 // STEP:24358 // EPOCH:755 // OFFSET:20 // LEARN_COST:0.5498 // VALI_COST:0.0277 // MIN_COST:0.0268
+Early stopping function step : 70
+Early stopping function step : 71
+Early stopping function step : 72
+Early stopping function step : 73
+Early stopping function step : 74
+COUNT:0 // LR:0.090000 // STEP:24519 // EPOCH:760 // OFFSET:17 // LEARN_COST:0.5487 // VALI_COST:0.0278 // MIN_COST:0.0268
+Early stopping function step : 75
+Early stopping function step : 76
+Early stopping function step : 77
+Early stopping function step : 78
+Early stopping function step : 79
+COUNT:0 // LR:0.090000 // STEP:24680 // EPOCH:765 // OFFSET:14 // LEARN_COST:0.5477 // VALI_COST:0.0278 // MIN_COST:0.0268
+Early stopping function step : 80
+Early stopping function step : 81
+Early stopping function step : 82
+Early stopping function step : 83
+Early stopping function step : 84
+COUNT:0 // LR:0.090000 // STEP:24841 // EPOCH:770 // OFFSET:11 // LEARN_COST:0.5467 // VALI_COST:0.0279 // MIN_COST:0.0268
+Early stopping function step : 85
+Early stopping function step : 86
+Early stopping function step : 87
+Early stopping function step : 88
+Early stopping function step : 89
+COUNT:0 // LR:0.090000 // STEP:25002 // EPOCH:775 // OFFSET:8 // LEARN_COST:0.5459 // VALI_COST:0.0279 // MIN_COST:0.0268
+Early stopping function step : 90
+Early stopping function step : 91
+Early stopping function step : 92
+Early stopping function step : 93
+Early stopping function step : 94
+COUNT:0 // LR:0.090000 // STEP:25163 // EPOCH:780 // OFFSET:5 // LEARN_COST:0.5451 // VALI_COST:0.0280 // MIN_COST:0.0268
+Early stopping function step : 95
+Early stopping function step : 96
+Early stopping function step : 97
+Early stopping function step : 98
+Early stopping function step : 99
+COUNT:0 // LR:0.090000 // STEP:25324 // EPOCH:785 // OFFSET:2 // LEARN_COST:0.5444 // VALI_COST:0.0280 // MIN_COST:0.0268
+Early stopping function step : 100
+Early stopping function step : 101
+Early stopping function step : 102
+Early stopping function step : 103
+Early stopping function step : 104
+COUNT:0 // LR:0.090000 // STEP:25486 // EPOCH:790 // OFFSET:31 // LEARN_COST:0.5437 // VALI_COST:0.0280 // MIN_COST:0.0268
+Early stopping function step : 105
+Early stopping function step : 106
+Early stopping function step : 107
+Early stopping function step : 108
+Early stopping function step : 109
+COUNT:0 // LR:0.090000 // STEP:25647 // EPOCH:795 // OFFSET:28 // LEARN_COST:0.5431 // VALI_COST:0.0281 // MIN_COST:0.0268
+Early stopping function step : 110
+Early stopping function step : 111
+Early stopping function step : 112
+Early stopping function step : 113
+Early stopping function step : 114
+COUNT:0 // LR:0.090000 // STEP:25808 // EPOCH:800 // OFFSET:25 // LEARN_COST:0.5426 // VALI_COST:0.0281 // MIN_COST:0.0268
+Early stopping function step : 115
+Early stopping function step : 116
+Early stopping function step : 117
+Early stopping function step : 118
+Early stopping function step : 119
+COUNT:0 // LR:0.090000 // STEP:25969 // EPOCH:805 // OFFSET:22 // LEARN_COST:0.5421 // VALI_COST:0.0282 // MIN_COST:0.0268
+Early stopping function step : 120
+Early stopping function step : 121
+Early stopping function step : 122
+Early stopping function step : 123
+Early stopping function step : 124
+COUNT:0 // LR:0.090000 // STEP:26130 // EPOCH:810 // OFFSET:19 // LEARN_COST:0.5417 // VALI_COST:0.0282 // MIN_COST:0.0268
+Early stopping function step : 125
+Early stopping function step : 126
+Early stopping function step : 127
+Early stopping function step : 128
+Early stopping function step : 129
+COUNT:0 // LR:0.090000 // STEP:26291 // EPOCH:815 // OFFSET:16 // LEARN_COST:0.5413 // VALI_COST:0.0282 // MIN_COST:0.0268
+Early stopping function step : 130
+Early stopping function step : 131
+Early stopping function step : 132
+Early stopping function step : 133
+Early stopping function step : 134
+COUNT:0 // LR:0.090000 // STEP:26452 // EPOCH:820 // OFFSET:13 // LEARN_COST:0.5409 // VALI_COST:0.0283 // MIN_COST:0.0268
+Early stopping function step : 135
+Early stopping function step : 136
+Early stopping function step : 137
+Early stopping function step : 138
+Early stopping function step : 139
+COUNT:0 // LR:0.090000 // STEP:26613 // EPOCH:825 // OFFSET:10 // LEARN_COST:0.5406 // VALI_COST:0.0283 // MIN_COST:0.0268
+Early stopping function step : 140
+Early stopping function step : 141
+Early stopping function step : 142
+Early stopping function step : 143
+Early stopping function step : 144
+COUNT:0 // LR:0.090000 // STEP:26774 // EPOCH:830 // OFFSET:7 // LEARN_COST:0.5403 // VALI_COST:0.0283 // MIN_COST:0.0268
+Early stopping function step : 145
+Early stopping function step : 146
+Early stopping function step : 147
+Early stopping function step : 148
+Early stopping function step : 149
+COUNT:0 // LR:0.090000 // STEP:26935 // EPOCH:835 // OFFSET:4 // LEARN_COST:0.5400 // VALI_COST:0.0283 // MIN_COST:0.0268
+Early stopping function step : 150
+Early stopping function step : 151
+Early stopping function step : 152
+Early stopping function step : 153
+Early stopping function step : 154
+COUNT:0 // LR:0.090000 // STEP:27096 // EPOCH:840 // OFFSET:1 // LEARN_COST:0.5397 // VALI_COST:0.0284 // MIN_COST:0.0268
+Early stopping function step : 155
+Early stopping function step : 156
+Early stopping function step : 157
+Early stopping function step : 158
+Early stopping function step : 159
+COUNT:0 // LR:0.090000 // STEP:27258 // EPOCH:845 // OFFSET:30 // LEARN_COST:0.5395 // VALI_COST:0.0284 // MIN_COST:0.0268
+Early stopping function step : 160
+Early stopping function step : 161
+Early stopping function step : 162
+Early stopping function step : 163
+Early stopping function step : 164
+COUNT:0 // LR:0.090000 // STEP:27419 // EPOCH:850 // OFFSET:27 // LEARN_COST:0.5393 // VALI_COST:0.0284 // MIN_COST:0.0268
+Early stopping function step : 165
+Early stopping function step : 166
+Early stopping function step : 167
+Early stopping function step : 168
+Early stopping function step : 169
+COUNT:0 // LR:0.090000 // STEP:27580 // EPOCH:855 // OFFSET:24 // LEARN_COST:0.5391 // VALI_COST:0.0284 // MIN_COST:0.0268
+Early stopping function step : 170
+Early stopping function step : 171
+Early stopping function step : 172
+Early stopping function step : 173
+Early stopping function step : 174
+COUNT:0 // LR:0.090000 // STEP:27741 // EPOCH:860 // OFFSET:21 // LEARN_COST:0.5389 // VALI_COST:0.0285 // MIN_COST:0.0268
+Early stopping function step : 175
+Early stopping function step : 176
+Early stopping function step : 177
+Early stopping function step : 178
+Early stopping function step : 179
+COUNT:0 // LR:0.090000 // STEP:27902 // EPOCH:865 // OFFSET:18 // LEARN_COST:0.5387 // VALI_COST:0.0285 // MIN_COST:0.0268
+Early stopping function step : 180
+Early stopping function step : 181
+Early stopping function step : 182
+Early stopping function step : 183
+Early stopping function step : 184
+COUNT:0 // LR:0.090000 // STEP:28063 // EPOCH:870 // OFFSET:15 // LEARN_COST:0.5385 // VALI_COST:0.0285 // MIN_COST:0.0268
+Early stopping function step : 185
+Early stopping function step : 186
+Early stopping function step : 187
+Early stopping function step : 188
+Early stopping function step : 189
+COUNT:0 // LR:0.090000 // STEP:28224 // EPOCH:875 // OFFSET:12 // LEARN_COST:0.5384 // VALI_COST:0.0285 // MIN_COST:0.0268
+Early stopping function step : 190
+Early stopping function step : 191
+Early stopping function step : 192
+Early stopping function step : 193
+Early stopping function step : 194
+COUNT:0 // LR:0.090000 // STEP:28385 // EPOCH:880 // OFFSET:9 // LEARN_COST:0.5383 // VALI_COST:0.0285 // MIN_COST:0.0268
+Early stopping function step : 195
+Early stopping function step : 196
+Early stopping function step : 197
+Early stopping function step : 198
+Early stopping function step : 199
+COUNT:0 // LR:0.090000 // STEP:28546 // EPOCH:885 // OFFSET:6 // LEARN_COST:0.5381 // VALI_COST:0.0286 // MIN_COST:0.0268
+Early stopping function step : 200
+Early stopping function step : 201
+Early stopping function step : 202
+Early stopping function step : 203
+Early stopping function step : 204
+COUNT:0 // LR:0.090000 // STEP:28707 // EPOCH:890 // OFFSET:3 // LEARN_COST:0.5380 // VALI_COST:0.0286 // MIN_COST:0.0268
+Early stopping function step : 205
+Early stopping function step : 206
+Early stopping function step : 207
+Early stopping function step : 208
+Early stopping function step : 209
+COUNT:0 // LR:0.090000 // STEP:28868 // EPOCH:895 // OFFSET:0 // LEARN_COST:0.5379 // VALI_COST:0.0286 // MIN_COST:0.0268
+Early stopping function step : 210
+Early stopping function step : 211
+Early stopping function step : 212
+Early stopping function step : 213
+Early stopping function step : 214
+COUNT:0 // LR:0.090000 // STEP:29030 // EPOCH:900 // OFFSET:29 // LEARN_COST:0.5378 // VALI_COST:0.0286 // MIN_COST:0.0268
+Early stopping function step : 215
+Early stopping function step : 216
+Early stopping function step : 217
+Early stopping function step : 218
+Early stopping function step : 219
+COUNT:0 // LR:0.090000 // STEP:29191 // EPOCH:905 // OFFSET:26 // LEARN_COST:0.5376 // VALI_COST:0.0286 // MIN_COST:0.0268
+Early stopping function step : 220
+Early stopping function step : 221
+Early stopping function step : 222
+Early stopping function step : 223
+Early stopping function step : 224
+COUNT:0 // LR:0.090000 // STEP:29352 // EPOCH:910 // OFFSET:23 // LEARN_COST:0.5375 // VALI_COST:0.0286 // MIN_COST:0.0268
+Early stopping function step : 225
+Early stopping function step : 226
+Early stopping function step : 227
+Early stopping function step : 228
+Early stopping function step : 229
+COUNT:0 // LR:0.090000 // STEP:29513 // EPOCH:915 // OFFSET:20 // LEARN_COST:0.5374 // VALI_COST:0.0286 // MIN_COST:0.0268
+Early stopping function step : 230
+Early stopping function step : 231
+Early stopping function step : 232
+Early stopping function step : 233
+Early stopping function step : 234
+COUNT:0 // LR:0.090000 // STEP:29674 // EPOCH:920 // OFFSET:17 // LEARN_COST:0.5373 // VALI_COST:0.0286 // MIN_COST:0.0268
+Early stopping function step : 235
+Early stopping function step : 236
+Early stopping function step : 237
+Early stopping function step : 238
+Early stopping function step : 239
+COUNT:0 // LR:0.090000 // STEP:29835 // EPOCH:925 // OFFSET:14 // LEARN_COST:0.5373 // VALI_COST:0.0287 // MIN_COST:0.0268
+Early stopping function step : 240
+Early stopping function step : 241
+Early stopping function step : 242
+Early stopping function step : 243
+Early stopping function step : 244
+COUNT:0 // LR:0.090000 // STEP:29996 // EPOCH:930 // OFFSET:11 // LEARN_COST:0.5372 // VALI_COST:0.0287 // MIN_COST:0.0268
+Early stopping function step : 245
+Early stopping function step : 246
+Early stopping function step : 247
+Early stopping function step : 248
+Early stopping function step : 249
+COUNT:0 // LR:0.090000 // STEP:30157 // EPOCH:935 // OFFSET:8 // LEARN_COST:0.5371 // VALI_COST:0.0287 // MIN_COST:0.0268
+Early stopping function step : 250
+Early stopping function step : 250
+
+
+Training process is stopped early....
+Count:1 // Learning Rate:0.00900000
+COUNT:1 // LR:0.009000 // STEP:33 // EPOCH:0 // OFFSET:25 // LEARN_COST:0.5745 // VALI_COST:0.0268 // MIN_COST:0.0268
+self._loss < loss False : _loss=inf // loss=0.026841528414874243 // Step=0
+Early stopping function step : 1
+Early stopping function step : 2
+Early stopping function step : 3
+Early stopping function step : 4
+COUNT:1 // LR:0.009000 // STEP:194 // EPOCH:5 // OFFSET:22 // LEARN_COST:0.5742 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 5
+Early stopping function step : 6
+Early stopping function step : 7
+Early stopping function step : 8
+Early stopping function step : 9
+COUNT:1 // LR:0.009000 // STEP:355 // EPOCH:10 // OFFSET:19 // LEARN_COST:0.5739 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 10
+Early stopping function step : 11
+Early stopping function step : 12
+Early stopping function step : 13
+Early stopping function step : 14
+COUNT:1 // LR:0.009000 // STEP:516 // EPOCH:15 // OFFSET:16 // LEARN_COST:0.5736 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 15
+Early stopping function step : 16
+Early stopping function step : 17
+Early stopping function step : 18
+Early stopping function step : 19
+COUNT:1 // LR:0.009000 // STEP:677 // EPOCH:20 // OFFSET:13 // LEARN_COST:0.5733 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 20
+Early stopping function step : 21
+Early stopping function step : 22
+Early stopping function step : 23
+Early stopping function step : 24
+COUNT:1 // LR:0.009000 // STEP:838 // EPOCH:25 // OFFSET:10 // LEARN_COST:0.5729 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 25
+Early stopping function step : 26
+Early stopping function step : 27
+Early stopping function step : 28
+Early stopping function step : 29
+COUNT:1 // LR:0.009000 // STEP:999 // EPOCH:30 // OFFSET:7 // LEARN_COST:0.5726 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 30
+Early stopping function step : 31
+Early stopping function step : 32
+Early stopping function step : 33
+Early stopping function step : 34
+COUNT:1 // LR:0.009000 // STEP:1160 // EPOCH:35 // OFFSET:4 // LEARN_COST:0.5723 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 35
+Early stopping function step : 36
+Early stopping function step : 37
+Early stopping function step : 38
+Early stopping function step : 39
+COUNT:1 // LR:0.009000 // STEP:1321 // EPOCH:40 // OFFSET:1 // LEARN_COST:0.5721 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 40
+Early stopping function step : 41
+Early stopping function step : 42
+Early stopping function step : 43
+Early stopping function step : 44
+COUNT:1 // LR:0.009000 // STEP:1483 // EPOCH:45 // OFFSET:30 // LEARN_COST:0.5718 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 45
+Early stopping function step : 46
+Early stopping function step : 47
+Early stopping function step : 48
+Early stopping function step : 49
+COUNT:1 // LR:0.009000 // STEP:1644 // EPOCH:50 // OFFSET:27 // LEARN_COST:0.5715 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 50
+Early stopping function step : 51
+Early stopping function step : 52
+Early stopping function step : 53
+Early stopping function step : 54
+COUNT:1 // LR:0.009000 // STEP:1805 // EPOCH:55 // OFFSET:24 // LEARN_COST:0.5712 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 55
+Early stopping function step : 56
+Early stopping function step : 57
+Early stopping function step : 58
+Early stopping function step : 59
+COUNT:1 // LR:0.009000 // STEP:1966 // EPOCH:60 // OFFSET:21 // LEARN_COST:0.5709 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 60
+Early stopping function step : 61
+Early stopping function step : 62
+Early stopping function step : 63
+Early stopping function step : 64
+COUNT:1 // LR:0.009000 // STEP:2127 // EPOCH:65 // OFFSET:18 // LEARN_COST:0.5707 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 65
+Early stopping function step : 66
+Early stopping function step : 67
+Early stopping function step : 68
+Early stopping function step : 69
+COUNT:1 // LR:0.009000 // STEP:2288 // EPOCH:70 // OFFSET:15 // LEARN_COST:0.5704 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 70
+Early stopping function step : 71
+Early stopping function step : 72
+Early stopping function step : 73
+Early stopping function step : 74
+COUNT:1 // LR:0.009000 // STEP:2449 // EPOCH:75 // OFFSET:12 // LEARN_COST:0.5701 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 75
+Early stopping function step : 76
+Early stopping function step : 77
+Early stopping function step : 78
+Early stopping function step : 79
+COUNT:1 // LR:0.009000 // STEP:2610 // EPOCH:80 // OFFSET:9 // LEARN_COST:0.5699 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 80
+Early stopping function step : 81
+Early stopping function step : 82
+Early stopping function step : 83
+Early stopping function step : 84
+COUNT:1 // LR:0.009000 // STEP:2771 // EPOCH:85 // OFFSET:6 // LEARN_COST:0.5696 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 85
+Early stopping function step : 86
+Early stopping function step : 87
+Early stopping function step : 88
+Early stopping function step : 89
+COUNT:1 // LR:0.009000 // STEP:2932 // EPOCH:90 // OFFSET:3 // LEARN_COST:0.5694 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 90
+Early stopping function step : 91
+Early stopping function step : 92
+Early stopping function step : 93
+Early stopping function step : 94
+COUNT:1 // LR:0.009000 // STEP:3093 // EPOCH:95 // OFFSET:0 // LEARN_COST:0.5691 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 95
+Early stopping function step : 96
+Early stopping function step : 97
+Early stopping function step : 98
+Early stopping function step : 99
+COUNT:1 // LR:0.009000 // STEP:3255 // EPOCH:100 // OFFSET:29 // LEARN_COST:0.5689 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 100
+Early stopping function step : 101
+Early stopping function step : 102
+Early stopping function step : 103
+Early stopping function step : 104
+COUNT:1 // LR:0.009000 // STEP:3416 // EPOCH:105 // OFFSET:26 // LEARN_COST:0.5686 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 105
+Early stopping function step : 106
+Early stopping function step : 107
+Early stopping function step : 108
+Early stopping function step : 109
+COUNT:1 // LR:0.009000 // STEP:3577 // EPOCH:110 // OFFSET:23 // LEARN_COST:0.5684 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 110
+Early stopping function step : 111
+Early stopping function step : 112
+Early stopping function step : 113
+Early stopping function step : 114
+COUNT:1 // LR:0.009000 // STEP:3738 // EPOCH:115 // OFFSET:20 // LEARN_COST:0.5682 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 115
+Early stopping function step : 116
+Early stopping function step : 117
+Early stopping function step : 118
+Early stopping function step : 119
+COUNT:1 // LR:0.009000 // STEP:3899 // EPOCH:120 // OFFSET:17 // LEARN_COST:0.5679 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 120
+Early stopping function step : 121
+Early stopping function step : 122
+Early stopping function step : 123
+Early stopping function step : 124
+COUNT:1 // LR:0.009000 // STEP:4060 // EPOCH:125 // OFFSET:14 // LEARN_COST:0.5677 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 125
+Early stopping function step : 126
+Early stopping function step : 127
+Early stopping function step : 128
+Early stopping function step : 129
+COUNT:1 // LR:0.009000 // STEP:4221 // EPOCH:130 // OFFSET:11 // LEARN_COST:0.5675 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 130
+Early stopping function step : 131
+Early stopping function step : 132
+Early stopping function step : 133
+Early stopping function step : 134
+COUNT:1 // LR:0.009000 // STEP:4382 // EPOCH:135 // OFFSET:8 // LEARN_COST:0.5673 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 135
+Early stopping function step : 136
+Early stopping function step : 137
+Early stopping function step : 138
+Early stopping function step : 139
+COUNT:1 // LR:0.009000 // STEP:4543 // EPOCH:140 // OFFSET:5 // LEARN_COST:0.5670 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 140
+Early stopping function step : 141
+Early stopping function step : 142
+Early stopping function step : 143
+Early stopping function step : 144
+COUNT:1 // LR:0.009000 // STEP:4704 // EPOCH:145 // OFFSET:2 // LEARN_COST:0.5668 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 145
+Early stopping function step : 146
+Early stopping function step : 147
+Early stopping function step : 148
+Early stopping function step : 149
+COUNT:1 // LR:0.009000 // STEP:4866 // EPOCH:150 // OFFSET:31 // LEARN_COST:0.5666 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 150
+Early stopping function step : 151
+Early stopping function step : 152
+Early stopping function step : 153
+Early stopping function step : 154
+COUNT:1 // LR:0.009000 // STEP:5027 // EPOCH:155 // OFFSET:28 // LEARN_COST:0.5664 // VALI_COST:0.0270 // MIN_COST:0.0268
+Early stopping function step : 155
+Early stopping function step : 156
+Early stopping function step : 157
+Early stopping function step : 158
+Early stopping function step : 159
+COUNT:1 // LR:0.009000 // STEP:5188 // EPOCH:160 // OFFSET:25 // LEARN_COST:0.5662 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 160
+Early stopping function step : 161
+Early stopping function step : 162
+Early stopping function step : 163
+Early stopping function step : 164
+COUNT:1 // LR:0.009000 // STEP:5349 // EPOCH:165 // OFFSET:22 // LEARN_COST:0.5660 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 165
+Early stopping function step : 166
+Early stopping function step : 167
+Early stopping function step : 168
+Early stopping function step : 169
+COUNT:1 // LR:0.009000 // STEP:5510 // EPOCH:170 // OFFSET:19 // LEARN_COST:0.5658 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 170
+Early stopping function step : 171
+Early stopping function step : 172
+Early stopping function step : 173
+Early stopping function step : 174
+COUNT:1 // LR:0.009000 // STEP:5671 // EPOCH:175 // OFFSET:16 // LEARN_COST:0.5655 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 175
+Early stopping function step : 176
+Early stopping function step : 177
+Early stopping function step : 178
+Early stopping function step : 179
+COUNT:1 // LR:0.009000 // STEP:5832 // EPOCH:180 // OFFSET:13 // LEARN_COST:0.5653 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 180
+Early stopping function step : 181
+Early stopping function step : 182
+Early stopping function step : 183
+Early stopping function step : 184
+COUNT:1 // LR:0.009000 // STEP:5993 // EPOCH:185 // OFFSET:10 // LEARN_COST:0.5651 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 185
+Early stopping function step : 186
+Early stopping function step : 187
+Early stopping function step : 188
+Early stopping function step : 189
+COUNT:1 // LR:0.009000 // STEP:6154 // EPOCH:190 // OFFSET:7 // LEARN_COST:0.5649 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 190
+Early stopping function step : 191
+Early stopping function step : 192
+Early stopping function step : 193
+Early stopping function step : 194
+COUNT:1 // LR:0.009000 // STEP:6315 // EPOCH:195 // OFFSET:4 // LEARN_COST:0.5647 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 195
+Early stopping function step : 196
+Early stopping function step : 197
+Early stopping function step : 198
+Early stopping function step : 199
+COUNT:1 // LR:0.009000 // STEP:6476 // EPOCH:200 // OFFSET:1 // LEARN_COST:0.5645 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 200
+Early stopping function step : 201
+Early stopping function step : 202
+Early stopping function step : 203
+Early stopping function step : 204
+COUNT:1 // LR:0.009000 // STEP:6638 // EPOCH:205 // OFFSET:30 // LEARN_COST:0.5643 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 205
+Early stopping function step : 206
+Early stopping function step : 207
+Early stopping function step : 208
+Early stopping function step : 209
+COUNT:1 // LR:0.009000 // STEP:6799 // EPOCH:210 // OFFSET:27 // LEARN_COST:0.5641 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 210
+Early stopping function step : 211
+Early stopping function step : 212
+Early stopping function step : 213
+Early stopping function step : 214
+COUNT:1 // LR:0.009000 // STEP:6960 // EPOCH:215 // OFFSET:24 // LEARN_COST:0.5639 // VALI_COST:0.0271 // MIN_COST:0.0268
+Early stopping function step : 215
+Early stopping function step : 216
+Early stopping function step : 217
+Early stopping function step : 218
+Early stopping function step : 219
+COUNT:1 // LR:0.009000 // STEP:7121 // EPOCH:220 // OFFSET:21 // LEARN_COST:0.5637 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 220
+Early stopping function step : 221
+Early stopping function step : 222
+Early stopping function step : 223
+Early stopping function step : 224
+COUNT:1 // LR:0.009000 // STEP:7282 // EPOCH:225 // OFFSET:18 // LEARN_COST:0.5636 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 225
+Early stopping function step : 226
+Early stopping function step : 227
+Early stopping function step : 228
+Early stopping function step : 229
+COUNT:1 // LR:0.009000 // STEP:7443 // EPOCH:230 // OFFSET:15 // LEARN_COST:0.5634 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 230
+Early stopping function step : 231
+Early stopping function step : 232
+Early stopping function step : 233
+Early stopping function step : 234
+COUNT:1 // LR:0.009000 // STEP:7604 // EPOCH:235 // OFFSET:12 // LEARN_COST:0.5632 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 235
+Early stopping function step : 236
+Early stopping function step : 237
+Early stopping function step : 238
+Early stopping function step : 239
+COUNT:1 // LR:0.009000 // STEP:7765 // EPOCH:240 // OFFSET:9 // LEARN_COST:0.5630 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 240
+Early stopping function step : 241
+Early stopping function step : 242
+Early stopping function step : 243
+Early stopping function step : 244
+COUNT:1 // LR:0.009000 // STEP:7926 // EPOCH:245 // OFFSET:6 // LEARN_COST:0.5628 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 245
+Early stopping function step : 246
+Early stopping function step : 247
+Early stopping function step : 248
+Early stopping function step : 249
+COUNT:1 // LR:0.009000 // STEP:8087 // EPOCH:250 // OFFSET:3 // LEARN_COST:0.5626 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 250
+Early stopping function step : 251
+Early stopping function step : 252
+Early stopping function step : 253
+Early stopping function step : 254
+COUNT:1 // LR:0.009000 // STEP:8248 // EPOCH:255 // OFFSET:0 // LEARN_COST:0.5624 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 255
+Early stopping function step : 256
+Early stopping function step : 257
+Early stopping function step : 258
+Early stopping function step : 259
+COUNT:1 // LR:0.009000 // STEP:8410 // EPOCH:260 // OFFSET:29 // LEARN_COST:0.5622 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 260
+Early stopping function step : 261
+Early stopping function step : 262
+Early stopping function step : 263
+Early stopping function step : 264
+COUNT:1 // LR:0.009000 // STEP:8571 // EPOCH:265 // OFFSET:26 // LEARN_COST:0.5620 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 265
+Early stopping function step : 266
+Early stopping function step : 267
+Early stopping function step : 268
+Early stopping function step : 269
+COUNT:1 // LR:0.009000 // STEP:8732 // EPOCH:270 // OFFSET:23 // LEARN_COST:0.5619 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 270
+Early stopping function step : 271
+Early stopping function step : 272
+Early stopping function step : 273
+Early stopping function step : 274
+COUNT:1 // LR:0.009000 // STEP:8893 // EPOCH:275 // OFFSET:20 // LEARN_COST:0.5617 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 275
+Early stopping function step : 276
+Early stopping function step : 277
+Early stopping function step : 278
+Early stopping function step : 279
+COUNT:1 // LR:0.009000 // STEP:9054 // EPOCH:280 // OFFSET:17 // LEARN_COST:0.5615 // VALI_COST:0.0272 // MIN_COST:0.0268
+Early stopping function step : 280
+Early stopping function step : 281
+Early stopping function step : 282
+Early stopping function step : 283
+Early stopping function step : 284
+COUNT:1 // LR:0.009000 // STEP:9215 // EPOCH:285 // OFFSET:14 // LEARN_COST:0.5613 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 285
+Early stopping function step : 286
+Early stopping function step : 287
+Early stopping function step : 288
+Early stopping function step : 289
+COUNT:1 // LR:0.009000 // STEP:9376 // EPOCH:290 // OFFSET:11 // LEARN_COST:0.5611 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 290
+Early stopping function step : 291
+Early stopping function step : 292
+Early stopping function step : 293
+Early stopping function step : 294
+COUNT:1 // LR:0.009000 // STEP:9537 // EPOCH:295 // OFFSET:8 // LEARN_COST:0.5609 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 295
+Early stopping function step : 296
+Early stopping function step : 297
+Early stopping function step : 298
+Early stopping function step : 299
+COUNT:1 // LR:0.009000 // STEP:9698 // EPOCH:300 // OFFSET:5 // LEARN_COST:0.5608 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 300
+Early stopping function step : 301
+Early stopping function step : 302
+Early stopping function step : 303
+Early stopping function step : 304
+COUNT:1 // LR:0.009000 // STEP:9859 // EPOCH:305 // OFFSET:2 // LEARN_COST:0.5606 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 305
+Early stopping function step : 306
+Early stopping function step : 307
+Early stopping function step : 308
+Early stopping function step : 309
+COUNT:1 // LR:0.009000 // STEP:10021 // EPOCH:310 // OFFSET:31 // LEARN_COST:0.5604 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 310
+Early stopping function step : 311
+Early stopping function step : 312
+Early stopping function step : 313
+Early stopping function step : 314
+COUNT:1 // LR:0.009000 // STEP:10182 // EPOCH:315 // OFFSET:28 // LEARN_COST:0.5602 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 315
+Early stopping function step : 316
+Early stopping function step : 317
+Early stopping function step : 318
+Early stopping function step : 319
+COUNT:1 // LR:0.009000 // STEP:10343 // EPOCH:320 // OFFSET:25 // LEARN_COST:0.5600 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 320
+Early stopping function step : 321
+Early stopping function step : 322
+Early stopping function step : 323
+Early stopping function step : 324
+COUNT:1 // LR:0.009000 // STEP:10504 // EPOCH:325 // OFFSET:22 // LEARN_COST:0.5599 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 325
+Early stopping function step : 326
+Early stopping function step : 327
+Early stopping function step : 328
+Early stopping function step : 329
+COUNT:1 // LR:0.009000 // STEP:10665 // EPOCH:330 // OFFSET:19 // LEARN_COST:0.5597 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 330
+Early stopping function step : 331
+Early stopping function step : 332
+Early stopping function step : 333
+Early stopping function step : 334
+COUNT:1 // LR:0.009000 // STEP:10826 // EPOCH:335 // OFFSET:16 // LEARN_COST:0.5595 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 335
+Early stopping function step : 336
+Early stopping function step : 337
+Early stopping function step : 338
+Early stopping function step : 339
+COUNT:1 // LR:0.009000 // STEP:10987 // EPOCH:340 // OFFSET:13 // LEARN_COST:0.5593 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 340
+Early stopping function step : 341
+Early stopping function step : 342
+Early stopping function step : 343
+Early stopping function step : 344
+COUNT:1 // LR:0.009000 // STEP:11148 // EPOCH:345 // OFFSET:10 // LEARN_COST:0.5592 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 345
+Early stopping function step : 346
+Early stopping function step : 347
+Early stopping function step : 348
+Early stopping function step : 349
+COUNT:1 // LR:0.009000 // STEP:11309 // EPOCH:350 // OFFSET:7 // LEARN_COST:0.5590 // VALI_COST:0.0273 // MIN_COST:0.0268
+Early stopping function step : 350
+Early stopping function step : 351
+Early stopping function step : 352
+Early stopping function step : 353
+Early stopping function step : 354
+COUNT:1 // LR:0.009000 // STEP:11470 // EPOCH:355 // OFFSET:4 // LEARN_COST:0.5588 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 355
+Early stopping function step : 356
+Early stopping function step : 357
+Early stopping function step : 358
+Early stopping function step : 359
+COUNT:1 // LR:0.009000 // STEP:11631 // EPOCH:360 // OFFSET:1 // LEARN_COST:0.5586 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 360
+Early stopping function step : 361
+Early stopping function step : 362
+Early stopping function step : 363
+Early stopping function step : 364
+COUNT:1 // LR:0.009000 // STEP:11793 // EPOCH:365 // OFFSET:30 // LEARN_COST:0.5585 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 365
+Early stopping function step : 366
+Early stopping function step : 367
+Early stopping function step : 368
+Early stopping function step : 369
+COUNT:1 // LR:0.009000 // STEP:11954 // EPOCH:370 // OFFSET:27 // LEARN_COST:0.5583 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 370
+Early stopping function step : 371
+Early stopping function step : 372
+Early stopping function step : 373
+Early stopping function step : 374
+COUNT:1 // LR:0.009000 // STEP:12115 // EPOCH:375 // OFFSET:24 // LEARN_COST:0.5581 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 375
+Early stopping function step : 376
+Early stopping function step : 377
+Early stopping function step : 378
+Early stopping function step : 379
+COUNT:1 // LR:0.009000 // STEP:12276 // EPOCH:380 // OFFSET:21 // LEARN_COST:0.5580 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 380
+Early stopping function step : 381
+Early stopping function step : 382
+Early stopping function step : 383
+Early stopping function step : 384
+COUNT:1 // LR:0.009000 // STEP:12437 // EPOCH:385 // OFFSET:18 // LEARN_COST:0.5578 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 385
+Early stopping function step : 386
+Early stopping function step : 387
+Early stopping function step : 388
+Early stopping function step : 389
+COUNT:1 // LR:0.009000 // STEP:12598 // EPOCH:390 // OFFSET:15 // LEARN_COST:0.5576 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 390
+Early stopping function step : 391
+Early stopping function step : 392
+Early stopping function step : 393
+Early stopping function step : 394
+COUNT:1 // LR:0.009000 // STEP:12759 // EPOCH:395 // OFFSET:12 // LEARN_COST:0.5575 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 395
+Early stopping function step : 396
+Early stopping function step : 397
+Early stopping function step : 398
+Early stopping function step : 399
+COUNT:1 // LR:0.009000 // STEP:12920 // EPOCH:400 // OFFSET:9 // LEARN_COST:0.5573 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 400
+Early stopping function step : 401
+Early stopping function step : 402
+Early stopping function step : 403
+Early stopping function step : 404
+COUNT:1 // LR:0.009000 // STEP:13081 // EPOCH:405 // OFFSET:6 // LEARN_COST:0.5571 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 405
+Early stopping function step : 406
+Early stopping function step : 407
+Early stopping function step : 408
+Early stopping function step : 409
+COUNT:1 // LR:0.009000 // STEP:13242 // EPOCH:410 // OFFSET:3 // LEARN_COST:0.5569 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 410
+Early stopping function step : 411
+Early stopping function step : 412
+Early stopping function step : 413
+Early stopping function step : 414
+COUNT:1 // LR:0.009000 // STEP:13403 // EPOCH:415 // OFFSET:0 // LEARN_COST:0.5568 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 415
+Early stopping function step : 416
+Early stopping function step : 417
+Early stopping function step : 418
+Early stopping function step : 419
+COUNT:1 // LR:0.009000 // STEP:13565 // EPOCH:420 // OFFSET:29 // LEARN_COST:0.5566 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 420
+Early stopping function step : 421
+Early stopping function step : 422
+Early stopping function step : 423
+Early stopping function step : 424
+COUNT:1 // LR:0.009000 // STEP:13726 // EPOCH:425 // OFFSET:26 // LEARN_COST:0.5565 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 425
+Early stopping function step : 426
+Early stopping function step : 427
+Early stopping function step : 428
+Early stopping function step : 429
+COUNT:1 // LR:0.009000 // STEP:13887 // EPOCH:430 // OFFSET:23 // LEARN_COST:0.5563 // VALI_COST:0.0274 // MIN_COST:0.0268
+Early stopping function step : 430
+Early stopping function step : 431
+Early stopping function step : 432
+Early stopping function step : 433
+Early stopping function step : 434
+COUNT:1 // LR:0.009000 // STEP:14048 // EPOCH:435 // OFFSET:20 // LEARN_COST:0.5561 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 435
+Early stopping function step : 436
+Early stopping function step : 437
+Early stopping function step : 438
+Early stopping function step : 439
+COUNT:1 // LR:0.009000 // STEP:14209 // EPOCH:440 // OFFSET:17 // LEARN_COST:0.5560 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 440
+Early stopping function step : 441
+Early stopping function step : 442
+Early stopping function step : 443
+Early stopping function step : 444
+COUNT:1 // LR:0.009000 // STEP:14370 // EPOCH:445 // OFFSET:14 // LEARN_COST:0.5558 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 445
+Early stopping function step : 446
+Early stopping function step : 447
+Early stopping function step : 448
+Early stopping function step : 449
+COUNT:1 // LR:0.009000 // STEP:14531 // EPOCH:450 // OFFSET:11 // LEARN_COST:0.5556 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 450
+Early stopping function step : 451
+Early stopping function step : 452
+Early stopping function step : 453
+Early stopping function step : 454
+COUNT:1 // LR:0.009000 // STEP:14692 // EPOCH:455 // OFFSET:8 // LEARN_COST:0.5555 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 455
+Early stopping function step : 456
+Early stopping function step : 457
+Early stopping function step : 458
+Early stopping function step : 459
+COUNT:1 // LR:0.009000 // STEP:14853 // EPOCH:460 // OFFSET:5 // LEARN_COST:0.5553 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 460
+Early stopping function step : 461
+Early stopping function step : 462
+Early stopping function step : 463
+Early stopping function step : 464
+COUNT:1 // LR:0.009000 // STEP:15014 // EPOCH:465 // OFFSET:2 // LEARN_COST:0.5552 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 465
+Early stopping function step : 466
+Early stopping function step : 467
+Early stopping function step : 468
+Early stopping function step : 469
+COUNT:1 // LR:0.009000 // STEP:15176 // EPOCH:470 // OFFSET:31 // LEARN_COST:0.5550 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 470
+Early stopping function step : 471
+Early stopping function step : 472
+Early stopping function step : 473
+Early stopping function step : 474
+COUNT:1 // LR:0.009000 // STEP:15337 // EPOCH:475 // OFFSET:28 // LEARN_COST:0.5549 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 475
+Early stopping function step : 476
+Early stopping function step : 477
+Early stopping function step : 478
+Early stopping function step : 479
+COUNT:1 // LR:0.009000 // STEP:15498 // EPOCH:480 // OFFSET:25 // LEARN_COST:0.5547 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 480
+Early stopping function step : 481
+Early stopping function step : 482
+Early stopping function step : 483
+Early stopping function step : 484
+COUNT:1 // LR:0.009000 // STEP:15659 // EPOCH:485 // OFFSET:22 // LEARN_COST:0.5545 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 485
+Early stopping function step : 486
+Early stopping function step : 487
+Early stopping function step : 488
+Early stopping function step : 489
+COUNT:1 // LR:0.009000 // STEP:15820 // EPOCH:490 // OFFSET:19 // LEARN_COST:0.5544 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 490
+Early stopping function step : 491
+Early stopping function step : 492
+Early stopping function step : 493
+Early stopping function step : 494
+COUNT:1 // LR:0.009000 // STEP:15981 // EPOCH:495 // OFFSET:16 // LEARN_COST:0.5542 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 495
+Early stopping function step : 496
+Early stopping function step : 497
+Early stopping function step : 498
+Early stopping function step : 499
+COUNT:1 // LR:0.009000 // STEP:16142 // EPOCH:500 // OFFSET:13 // LEARN_COST:0.5541 // VALI_COST:0.0275 // MIN_COST:0.0268
+Early stopping function step : 500
+Early stopping function step : 500
+
+
+Training process is stopped early....
+Count:2 // Learning Rate:0.00090000
+COUNT:2 // LR:0.000900 // STEP:33 // EPOCH:0 // OFFSET:25 // LEARN_COST:0.5744 // VALI_COST:0.0268 // MIN_COST:0.0268
+self._loss < loss False : _loss=inf // loss=0.026843188713024053 // Step=0
+Early stopping function step : 1
+Early stopping function step : 2
+Early stopping function step : 3
+Early stopping function step : 4
+COUNT:2 // LR:0.000900 // STEP:194 // EPOCH:5 // OFFSET:22 // LEARN_COST:0.5743 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 5
+Early stopping function step : 6
+Early stopping function step : 7
+Early stopping function step : 8
+Early stopping function step : 9
+COUNT:2 // LR:0.000900 // STEP:355 // EPOCH:10 // OFFSET:19 // LEARN_COST:0.5743 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 10
+Early stopping function step : 11
+Early stopping function step : 12
+Early stopping function step : 13
+Early stopping function step : 14
+COUNT:2 // LR:0.000900 // STEP:516 // EPOCH:15 // OFFSET:16 // LEARN_COST:0.5743 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 15
+Early stopping function step : 16
+Early stopping function step : 17
+Early stopping function step : 18
+Early stopping function step : 19
+COUNT:2 // LR:0.000900 // STEP:677 // EPOCH:20 // OFFSET:13 // LEARN_COST:0.5742 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 20
+Early stopping function step : 21
+Early stopping function step : 22
+Early stopping function step : 23
+Early stopping function step : 24
+COUNT:2 // LR:0.000900 // STEP:838 // EPOCH:25 // OFFSET:10 // LEARN_COST:0.5742 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 25
+Early stopping function step : 26
+Early stopping function step : 27
+Early stopping function step : 28
+Early stopping function step : 29
+COUNT:2 // LR:0.000900 // STEP:999 // EPOCH:30 // OFFSET:7 // LEARN_COST:0.5742 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 30
+Early stopping function step : 31
+Early stopping function step : 32
+Early stopping function step : 33
+Early stopping function step : 34
+COUNT:2 // LR:0.000900 // STEP:1160 // EPOCH:35 // OFFSET:4 // LEARN_COST:0.5741 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 35
+Early stopping function step : 36
+Early stopping function step : 37
+Early stopping function step : 38
+Early stopping function step : 39
+COUNT:2 // LR:0.000900 // STEP:1321 // EPOCH:40 // OFFSET:1 // LEARN_COST:0.5741 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 40
+Early stopping function step : 41
+Early stopping function step : 42
+Early stopping function step : 43
+Early stopping function step : 44
+COUNT:2 // LR:0.000900 // STEP:1483 // EPOCH:45 // OFFSET:30 // LEARN_COST:0.5741 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 45
+Early stopping function step : 46
+Early stopping function step : 47
+Early stopping function step : 48
+Early stopping function step : 49
+COUNT:2 // LR:0.000900 // STEP:1644 // EPOCH:50 // OFFSET:27 // LEARN_COST:0.5740 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 50
+Early stopping function step : 51
+Early stopping function step : 52
+Early stopping function step : 53
+Early stopping function step : 54
+COUNT:2 // LR:0.000900 // STEP:1805 // EPOCH:55 // OFFSET:24 // LEARN_COST:0.5740 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 55
+Early stopping function step : 56
+Early stopping function step : 57
+Early stopping function step : 58
+Early stopping function step : 59
+COUNT:2 // LR:0.000900 // STEP:1966 // EPOCH:60 // OFFSET:21 // LEARN_COST:0.5740 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 60
+Early stopping function step : 61
+Early stopping function step : 62
+Early stopping function step : 63
+Early stopping function step : 64
+COUNT:2 // LR:0.000900 // STEP:2127 // EPOCH:65 // OFFSET:18 // LEARN_COST:0.5739 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 65
+Early stopping function step : 66
+Early stopping function step : 67
+Early stopping function step : 68
+Early stopping function step : 69
+COUNT:2 // LR:0.000900 // STEP:2288 // EPOCH:70 // OFFSET:15 // LEARN_COST:0.5739 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 70
+Early stopping function step : 71
+Early stopping function step : 72
+Early stopping function step : 73
+Early stopping function step : 74
+COUNT:2 // LR:0.000900 // STEP:2449 // EPOCH:75 // OFFSET:12 // LEARN_COST:0.5739 // VALI_COST:0.0268 // MIN_COST:0.0268
+Early stopping function step : 75
+Early stopping function step : 76
+Early stopping function step : 77
+Early stopping function step : 78
+Early stopping function step : 79
+COUNT:2 // LR:0.000900 // STEP:2610 // EPOCH:80 // OFFSET:9 // LEARN_COST:0.5738 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 80
+Early stopping function step : 81
+Early stopping function step : 82
+Early stopping function step : 83
+Early stopping function step : 84
+COUNT:2 // LR:0.000900 // STEP:2771 // EPOCH:85 // OFFSET:6 // LEARN_COST:0.5738 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 85
+Early stopping function step : 86
+Early stopping function step : 87
+Early stopping function step : 88
+Early stopping function step : 89
+COUNT:2 // LR:0.000900 // STEP:2932 // EPOCH:90 // OFFSET:3 // LEARN_COST:0.5738 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 90
+Early stopping function step : 91
+Early stopping function step : 92
+Early stopping function step : 93
+Early stopping function step : 94
+COUNT:2 // LR:0.000900 // STEP:3093 // EPOCH:95 // OFFSET:0 // LEARN_COST:0.5737 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 95
+Early stopping function step : 96
+Early stopping function step : 97
+Early stopping function step : 98
+Early stopping function step : 99
+COUNT:2 // LR:0.000900 // STEP:3255 // EPOCH:100 // OFFSET:29 // LEARN_COST:0.5737 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 100
+Early stopping function step : 101
+Early stopping function step : 102
+Early stopping function step : 103
+Early stopping function step : 104
+COUNT:2 // LR:0.000900 // STEP:3416 // EPOCH:105 // OFFSET:26 // LEARN_COST:0.5737 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 105
+Early stopping function step : 106
+Early stopping function step : 107
+Early stopping function step : 108
+Early stopping function step : 109
+COUNT:2 // LR:0.000900 // STEP:3577 // EPOCH:110 // OFFSET:23 // LEARN_COST:0.5736 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 110
+Early stopping function step : 111
+Early stopping function step : 112
+Early stopping function step : 113
+Early stopping function step : 114
+COUNT:2 // LR:0.000900 // STEP:3738 // EPOCH:115 // OFFSET:20 // LEARN_COST:0.5736 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 115
+Early stopping function step : 116
+Early stopping function step : 117
+Early stopping function step : 118
+Early stopping function step : 119
+COUNT:2 // LR:0.000900 // STEP:3899 // EPOCH:120 // OFFSET:17 // LEARN_COST:0.5736 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 120
+Early stopping function step : 121
+Early stopping function step : 122
+Early stopping function step : 123
+Early stopping function step : 124
+COUNT:2 // LR:0.000900 // STEP:4060 // EPOCH:125 // OFFSET:14 // LEARN_COST:0.5735 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 125
+Early stopping function step : 126
+Early stopping function step : 127
+Early stopping function step : 128
+Early stopping function step : 129
+COUNT:2 // LR:0.000900 // STEP:4221 // EPOCH:130 // OFFSET:11 // LEARN_COST:0.5735 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 130
+Early stopping function step : 131
+Early stopping function step : 132
+Early stopping function step : 133
+Early stopping function step : 134
+COUNT:2 // LR:0.000900 // STEP:4382 // EPOCH:135 // OFFSET:8 // LEARN_COST:0.5735 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 135
+Early stopping function step : 136
+Early stopping function step : 137
+Early stopping function step : 138
+Early stopping function step : 139
+COUNT:2 // LR:0.000900 // STEP:4543 // EPOCH:140 // OFFSET:5 // LEARN_COST:0.5734 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 140
+Early stopping function step : 141
+Early stopping function step : 142
+Early stopping function step : 143
+Early stopping function step : 144
+COUNT:2 // LR:0.000900 // STEP:4704 // EPOCH:145 // OFFSET:2 // LEARN_COST:0.5734 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 145
+Early stopping function step : 146
+Early stopping function step : 147
+Early stopping function step : 148
+Early stopping function step : 149
+COUNT:2 // LR:0.000900 // STEP:4866 // EPOCH:150 // OFFSET:31 // LEARN_COST:0.5734 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 150
+Early stopping function step : 151
+Early stopping function step : 152
+Early stopping function step : 153
+Early stopping function step : 154
+COUNT:2 // LR:0.000900 // STEP:5027 // EPOCH:155 // OFFSET:28 // LEARN_COST:0.5733 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 155
+Early stopping function step : 156
+Early stopping function step : 157
+Early stopping function step : 158
+Early stopping function step : 159
+COUNT:2 // LR:0.000900 // STEP:5188 // EPOCH:160 // OFFSET:25 // LEARN_COST:0.5733 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 160
+Early stopping function step : 161
+Early stopping function step : 162
+Early stopping function step : 163
+Early stopping function step : 164
+COUNT:2 // LR:0.000900 // STEP:5349 // EPOCH:165 // OFFSET:22 // LEARN_COST:0.5733 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 165
+Early stopping function step : 166
+Early stopping function step : 167
+Early stopping function step : 168
+Early stopping function step : 169
+COUNT:2 // LR:0.000900 // STEP:5510 // EPOCH:170 // OFFSET:19 // LEARN_COST:0.5733 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 170
+Early stopping function step : 171
+Early stopping function step : 172
+Early stopping function step : 173
+Early stopping function step : 174
+COUNT:2 // LR:0.000900 // STEP:5671 // EPOCH:175 // OFFSET:16 // LEARN_COST:0.5732 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 175
+Early stopping function step : 176
+Early stopping function step : 177
+Early stopping function step : 178
+Early stopping function step : 179
+COUNT:2 // LR:0.000900 // STEP:5832 // EPOCH:180 // OFFSET:13 // LEARN_COST:0.5732 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 180
+Early stopping function step : 181
+Early stopping function step : 182
+Early stopping function step : 183
+Early stopping function step : 184
+COUNT:2 // LR:0.000900 // STEP:5993 // EPOCH:185 // OFFSET:10 // LEARN_COST:0.5732 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 185
+Early stopping function step : 186
+Early stopping function step : 187
+Early stopping function step : 188
+Early stopping function step : 189
+COUNT:2 // LR:0.000900 // STEP:6154 // EPOCH:190 // OFFSET:7 // LEARN_COST:0.5731 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 190
+Early stopping function step : 191
+Early stopping function step : 192
+Early stopping function step : 193
+Early stopping function step : 194
+COUNT:2 // LR:0.000900 // STEP:6315 // EPOCH:195 // OFFSET:4 // LEARN_COST:0.5731 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 195
+Early stopping function step : 196
+Early stopping function step : 197
+Early stopping function step : 198
+Early stopping function step : 199
+COUNT:2 // LR:0.000900 // STEP:6476 // EPOCH:200 // OFFSET:1 // LEARN_COST:0.5731 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 200
+Early stopping function step : 201
+Early stopping function step : 202
+Early stopping function step : 203
+Early stopping function step : 204
+COUNT:2 // LR:0.000900 // STEP:6638 // EPOCH:205 // OFFSET:30 // LEARN_COST:0.5730 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 205
+Early stopping function step : 206
+Early stopping function step : 207
+Early stopping function step : 208
+Early stopping function step : 209
+COUNT:2 // LR:0.000900 // STEP:6799 // EPOCH:210 // OFFSET:27 // LEARN_COST:0.5730 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 210
+Early stopping function step : 211
+Early stopping function step : 212
+Early stopping function step : 213
+Early stopping function step : 214
+COUNT:2 // LR:0.000900 // STEP:6960 // EPOCH:215 // OFFSET:24 // LEARN_COST:0.5730 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 215
+Early stopping function step : 216
+Early stopping function step : 217
+Early stopping function step : 218
+Early stopping function step : 219
+COUNT:2 // LR:0.000900 // STEP:7121 // EPOCH:220 // OFFSET:21 // LEARN_COST:0.5729 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 220
+Early stopping function step : 221
+Early stopping function step : 222
+Early stopping function step : 223
+Early stopping function step : 224
+COUNT:2 // LR:0.000900 // STEP:7282 // EPOCH:225 // OFFSET:18 // LEARN_COST:0.5729 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 225
+Early stopping function step : 226
+Early stopping function step : 227
+Early stopping function step : 228
+Early stopping function step : 229
+COUNT:2 // LR:0.000900 // STEP:7443 // EPOCH:230 // OFFSET:15 // LEARN_COST:0.5729 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 230
+Early stopping function step : 231
+Early stopping function step : 232
+Early stopping function step : 233
+Early stopping function step : 234
+COUNT:2 // LR:0.000900 // STEP:7604 // EPOCH:235 // OFFSET:12 // LEARN_COST:0.5728 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 235
+Early stopping function step : 236
+Early stopping function step : 237
+Early stopping function step : 238
+Early stopping function step : 239
+COUNT:2 // LR:0.000900 // STEP:7765 // EPOCH:240 // OFFSET:9 // LEARN_COST:0.5728 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 240
+Early stopping function step : 241
+Early stopping function step : 242
+Early stopping function step : 243
+Early stopping function step : 244
+COUNT:2 // LR:0.000900 // STEP:7926 // EPOCH:245 // OFFSET:6 // LEARN_COST:0.5728 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 245
+Early stopping function step : 246
+Early stopping function step : 247
+Early stopping function step : 248
+Early stopping function step : 249
+COUNT:2 // LR:0.000900 // STEP:8087 // EPOCH:250 // OFFSET:3 // LEARN_COST:0.5728 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 250
+Early stopping function step : 251
+Early stopping function step : 252
+Early stopping function step : 253
+Early stopping function step : 254
+COUNT:2 // LR:0.000900 // STEP:8248 // EPOCH:255 // OFFSET:0 // LEARN_COST:0.5727 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 255
+Early stopping function step : 256
+Early stopping function step : 257
+Early stopping function step : 258
+Early stopping function step : 259
+COUNT:2 // LR:0.000900 // STEP:8410 // EPOCH:260 // OFFSET:29 // LEARN_COST:0.5727 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 260
+Early stopping function step : 261
+Early stopping function step : 262
+Early stopping function step : 263
+Early stopping function step : 264
+COUNT:2 // LR:0.000900 // STEP:8571 // EPOCH:265 // OFFSET:26 // LEARN_COST:0.5727 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 265
+Early stopping function step : 266
+Early stopping function step : 267
+Early stopping function step : 268
+Early stopping function step : 269
+COUNT:2 // LR:0.000900 // STEP:8732 // EPOCH:270 // OFFSET:23 // LEARN_COST:0.5726 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 270
+Early stopping function step : 271
+Early stopping function step : 272
+Early stopping function step : 273
+Early stopping function step : 274
+COUNT:2 // LR:0.000900 // STEP:8893 // EPOCH:275 // OFFSET:20 // LEARN_COST:0.5726 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 275
+Early stopping function step : 276
+Early stopping function step : 277
+Early stopping function step : 278
+Early stopping function step : 279
+COUNT:2 // LR:0.000900 // STEP:9054 // EPOCH:280 // OFFSET:17 // LEARN_COST:0.5726 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 280
+Early stopping function step : 281
+Early stopping function step : 282
+Early stopping function step : 283
+Early stopping function step : 284
+COUNT:2 // LR:0.000900 // STEP:9215 // EPOCH:285 // OFFSET:14 // LEARN_COST:0.5725 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 285
+Early stopping function step : 286
+Early stopping function step : 287
+Early stopping function step : 288
+Early stopping function step : 289
+COUNT:2 // LR:0.000900 // STEP:9376 // EPOCH:290 // OFFSET:11 // LEARN_COST:0.5725 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 290
+Early stopping function step : 291
+Early stopping function step : 292
+Early stopping function step : 293
+Early stopping function step : 294
+COUNT:2 // LR:0.000900 // STEP:9537 // EPOCH:295 // OFFSET:8 // LEARN_COST:0.5725 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 295
+Early stopping function step : 296
+Early stopping function step : 297
+Early stopping function step : 298
+Early stopping function step : 299
+COUNT:2 // LR:0.000900 // STEP:9698 // EPOCH:300 // OFFSET:5 // LEARN_COST:0.5725 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 300
+Early stopping function step : 301
+Early stopping function step : 302
+Early stopping function step : 303
+Early stopping function step : 304
+COUNT:2 // LR:0.000900 // STEP:9859 // EPOCH:305 // OFFSET:2 // LEARN_COST:0.5724 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 305
+Early stopping function step : 306
+Early stopping function step : 307
+Early stopping function step : 308
+Early stopping function step : 309
+COUNT:2 // LR:0.000900 // STEP:10021 // EPOCH:310 // OFFSET:31 // LEARN_COST:0.5724 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 310
+Early stopping function step : 311
+Early stopping function step : 312
+Early stopping function step : 313
+Early stopping function step : 314
+COUNT:2 // LR:0.000900 // STEP:10182 // EPOCH:315 // OFFSET:28 // LEARN_COST:0.5724 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 315
+Early stopping function step : 316
+Early stopping function step : 317
+Early stopping function step : 318
+Early stopping function step : 319
+COUNT:2 // LR:0.000900 // STEP:10343 // EPOCH:320 // OFFSET:25 // LEARN_COST:0.5723 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 320
+Early stopping function step : 321
+Early stopping function step : 322
+Early stopping function step : 323
+Early stopping function step : 324
+COUNT:2 // LR:0.000900 // STEP:10504 // EPOCH:325 // OFFSET:22 // LEARN_COST:0.5723 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 325
+Early stopping function step : 326
+Early stopping function step : 327
+Early stopping function step : 328
+Early stopping function step : 329
+COUNT:2 // LR:0.000900 // STEP:10665 // EPOCH:330 // OFFSET:19 // LEARN_COST:0.5723 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 330
+Early stopping function step : 331
+Early stopping function step : 332
+Early stopping function step : 333
+Early stopping function step : 334
+COUNT:2 // LR:0.000900 // STEP:10826 // EPOCH:335 // OFFSET:16 // LEARN_COST:0.5722 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 335
+Early stopping function step : 336
+Early stopping function step : 337
+Early stopping function step : 338
+Early stopping function step : 339
+COUNT:2 // LR:0.000900 // STEP:10987 // EPOCH:340 // OFFSET:13 // LEARN_COST:0.5722 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 340
+Early stopping function step : 341
+Early stopping function step : 342
+Early stopping function step : 343
+Early stopping function step : 344
+COUNT:2 // LR:0.000900 // STEP:11148 // EPOCH:345 // OFFSET:10 // LEARN_COST:0.5722 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 345
+Early stopping function step : 346
+Early stopping function step : 347
+Early stopping function step : 348
+Early stopping function step : 349
+COUNT:2 // LR:0.000900 // STEP:11309 // EPOCH:350 // OFFSET:7 // LEARN_COST:0.5722 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 350
+Early stopping function step : 351
+Early stopping function step : 352
+Early stopping function step : 353
+Early stopping function step : 354
+COUNT:2 // LR:0.000900 // STEP:11470 // EPOCH:355 // OFFSET:4 // LEARN_COST:0.5721 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 355
+Early stopping function step : 356
+Early stopping function step : 357
+Early stopping function step : 358
+Early stopping function step : 359
+COUNT:2 // LR:0.000900 // STEP:11631 // EPOCH:360 // OFFSET:1 // LEARN_COST:0.5721 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 360
+Early stopping function step : 361
+Early stopping function step : 362
+Early stopping function step : 363
+Early stopping function step : 364
+COUNT:2 // LR:0.000900 // STEP:11793 // EPOCH:365 // OFFSET:30 // LEARN_COST:0.5721 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 365
+Early stopping function step : 366
+Early stopping function step : 367
+Early stopping function step : 368
+Early stopping function step : 369
+COUNT:2 // LR:0.000900 // STEP:11954 // EPOCH:370 // OFFSET:27 // LEARN_COST:0.5720 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 370
+Early stopping function step : 371
+Early stopping function step : 372
+Early stopping function step : 373
+Early stopping function step : 374
+COUNT:2 // LR:0.000900 // STEP:12115 // EPOCH:375 // OFFSET:24 // LEARN_COST:0.5720 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 375
+Early stopping function step : 376
+Early stopping function step : 377
+Early stopping function step : 378
+Early stopping function step : 379
+COUNT:2 // LR:0.000900 // STEP:12276 // EPOCH:380 // OFFSET:21 // LEARN_COST:0.5720 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 380
+Early stopping function step : 381
+Early stopping function step : 382
+Early stopping function step : 383
+Early stopping function step : 384
+COUNT:2 // LR:0.000900 // STEP:12437 // EPOCH:385 // OFFSET:18 // LEARN_COST:0.5720 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 385
+Early stopping function step : 386
+Early stopping function step : 387
+Early stopping function step : 388
+Early stopping function step : 389
+COUNT:2 // LR:0.000900 // STEP:12598 // EPOCH:390 // OFFSET:15 // LEARN_COST:0.5719 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 390
+Early stopping function step : 391
+Early stopping function step : 392
+Early stopping function step : 393
+Early stopping function step : 394
+COUNT:2 // LR:0.000900 // STEP:12759 // EPOCH:395 // OFFSET:12 // LEARN_COST:0.5719 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 395
+Early stopping function step : 396
+Early stopping function step : 397
+Early stopping function step : 398
+Early stopping function step : 399
+COUNT:2 // LR:0.000900 // STEP:12920 // EPOCH:400 // OFFSET:9 // LEARN_COST:0.5719 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 400
+Early stopping function step : 401
+Early stopping function step : 402
+Early stopping function step : 403
+Early stopping function step : 404
+COUNT:2 // LR:0.000900 // STEP:13081 // EPOCH:405 // OFFSET:6 // LEARN_COST:0.5718 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 405
+Early stopping function step : 406
+Early stopping function step : 407
+Early stopping function step : 408
+Early stopping function step : 409
+COUNT:2 // LR:0.000900 // STEP:13242 // EPOCH:410 // OFFSET:3 // LEARN_COST:0.5718 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 410
+Early stopping function step : 411
+Early stopping function step : 412
+Early stopping function step : 413
+Early stopping function step : 414
+COUNT:2 // LR:0.000900 // STEP:13403 // EPOCH:415 // OFFSET:0 // LEARN_COST:0.5718 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 415
+Early stopping function step : 416
+Early stopping function step : 417
+Early stopping function step : 418
+Early stopping function step : 419
+COUNT:2 // LR:0.000900 // STEP:13565 // EPOCH:420 // OFFSET:29 // LEARN_COST:0.5718 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 420
+Early stopping function step : 421
+Early stopping function step : 422
+Early stopping function step : 423
+Early stopping function step : 424
+COUNT:2 // LR:0.000900 // STEP:13726 // EPOCH:425 // OFFSET:26 // LEARN_COST:0.5717 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 425
+Early stopping function step : 426
+Early stopping function step : 427
+Early stopping function step : 428
+Early stopping function step : 429
+COUNT:2 // LR:0.000900 // STEP:13887 // EPOCH:430 // OFFSET:23 // LEARN_COST:0.5717 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 430
+Early stopping function step : 431
+Early stopping function step : 432
+Early stopping function step : 433
+Early stopping function step : 434
+COUNT:2 // LR:0.000900 // STEP:14048 // EPOCH:435 // OFFSET:20 // LEARN_COST:0.5717 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 435
+Early stopping function step : 436
+Early stopping function step : 437
+Early stopping function step : 438
+Early stopping function step : 439
+COUNT:2 // LR:0.000900 // STEP:14209 // EPOCH:440 // OFFSET:17 // LEARN_COST:0.5716 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 440
+Early stopping function step : 441
+Early stopping function step : 442
+Early stopping function step : 443
+Early stopping function step : 444
+COUNT:2 // LR:0.000900 // STEP:14370 // EPOCH:445 // OFFSET:14 // LEARN_COST:0.5716 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 445
+Early stopping function step : 446
+Early stopping function step : 447
+Early stopping function step : 448
+Early stopping function step : 449
+COUNT:2 // LR:0.000900 // STEP:14531 // EPOCH:450 // OFFSET:11 // LEARN_COST:0.5716 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 450
+Early stopping function step : 451
+Early stopping function step : 452
+Early stopping function step : 453
+Early stopping function step : 454
+COUNT:2 // LR:0.000900 // STEP:14692 // EPOCH:455 // OFFSET:8 // LEARN_COST:0.5716 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 455
+Early stopping function step : 456
+Early stopping function step : 457
+Early stopping function step : 458
+Early stopping function step : 459
+COUNT:2 // LR:0.000900 // STEP:14853 // EPOCH:460 // OFFSET:5 // LEARN_COST:0.5715 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 460
+Early stopping function step : 461
+Early stopping function step : 462
+Early stopping function step : 463
+Early stopping function step : 464
+COUNT:2 // LR:0.000900 // STEP:15014 // EPOCH:465 // OFFSET:2 // LEARN_COST:0.5715 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 465
+Early stopping function step : 466
+Early stopping function step : 467
+Early stopping function step : 468
+Early stopping function step : 469
+COUNT:2 // LR:0.000900 // STEP:15176 // EPOCH:470 // OFFSET:31 // LEARN_COST:0.5715 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 470
+Early stopping function step : 471
+Early stopping function step : 472
+Early stopping function step : 473
+Early stopping function step : 474
+COUNT:2 // LR:0.000900 // STEP:15337 // EPOCH:475 // OFFSET:28 // LEARN_COST:0.5714 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 475
+Early stopping function step : 476
+Early stopping function step : 477
+Early stopping function step : 478
+Early stopping function step : 479
+COUNT:2 // LR:0.000900 // STEP:15498 // EPOCH:480 // OFFSET:25 // LEARN_COST:0.5714 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 480
+Early stopping function step : 481
+Early stopping function step : 482
+Early stopping function step : 483
+Early stopping function step : 484
+COUNT:2 // LR:0.000900 // STEP:15659 // EPOCH:485 // OFFSET:22 // LEARN_COST:0.5714 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 485
+Early stopping function step : 486
+Early stopping function step : 487
+Early stopping function step : 488
+Early stopping function step : 489
+COUNT:2 // LR:0.000900 // STEP:15820 // EPOCH:490 // OFFSET:19 // LEARN_COST:0.5714 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 490
+Early stopping function step : 491
+Early stopping function step : 492
+Early stopping function step : 493
+Early stopping function step : 494
+COUNT:2 // LR:0.000900 // STEP:15981 // EPOCH:495 // OFFSET:16 // LEARN_COST:0.5713 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 495
+Early stopping function step : 496
+Early stopping function step : 497
+Early stopping function step : 498
+Early stopping function step : 499
+COUNT:2 // LR:0.000900 // STEP:16142 // EPOCH:500 // OFFSET:13 // LEARN_COST:0.5713 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 500
+Early stopping function step : 501
+Early stopping function step : 502
+Early stopping function step : 503
+Early stopping function step : 504
+COUNT:2 // LR:0.000900 // STEP:16303 // EPOCH:505 // OFFSET:10 // LEARN_COST:0.5713 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 505
+Early stopping function step : 506
+Early stopping function step : 507
+Early stopping function step : 508
+Early stopping function step : 509
+COUNT:2 // LR:0.000900 // STEP:16464 // EPOCH:510 // OFFSET:7 // LEARN_COST:0.5712 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 510
+Early stopping function step : 511
+Early stopping function step : 512
+Early stopping function step : 513
+Early stopping function step : 514
+COUNT:2 // LR:0.000900 // STEP:16625 // EPOCH:515 // OFFSET:4 // LEARN_COST:0.5712 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 515
+Early stopping function step : 516
+Early stopping function step : 517
+Early stopping function step : 518
+Early stopping function step : 519
+COUNT:2 // LR:0.000900 // STEP:16786 // EPOCH:520 // OFFSET:1 // LEARN_COST:0.5712 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 520
+Early stopping function step : 521
+Early stopping function step : 522
+Early stopping function step : 523
+Early stopping function step : 524
+COUNT:2 // LR:0.000900 // STEP:16948 // EPOCH:525 // OFFSET:30 // LEARN_COST:0.5712 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 525
+Early stopping function step : 526
+Early stopping function step : 527
+Early stopping function step : 528
+Early stopping function step : 529
+COUNT:2 // LR:0.000900 // STEP:17109 // EPOCH:530 // OFFSET:27 // LEARN_COST:0.5711 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 530
+Early stopping function step : 531
+Early stopping function step : 532
+Early stopping function step : 533
+Early stopping function step : 534
+COUNT:2 // LR:0.000900 // STEP:17270 // EPOCH:535 // OFFSET:24 // LEARN_COST:0.5711 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 535
+Early stopping function step : 536
+Early stopping function step : 537
+Early stopping function step : 538
+Early stopping function step : 539
+COUNT:2 // LR:0.000900 // STEP:17431 // EPOCH:540 // OFFSET:21 // LEARN_COST:0.5711 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 540
+Early stopping function step : 541
+Early stopping function step : 542
+Early stopping function step : 543
+Early stopping function step : 544
+COUNT:2 // LR:0.000900 // STEP:17592 // EPOCH:545 // OFFSET:18 // LEARN_COST:0.5710 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 545
+Early stopping function step : 546
+Early stopping function step : 547
+Early stopping function step : 548
+Early stopping function step : 549
+COUNT:2 // LR:0.000900 // STEP:17753 // EPOCH:550 // OFFSET:15 // LEARN_COST:0.5710 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 550
+Early stopping function step : 551
+Early stopping function step : 552
+Early stopping function step : 553
+Early stopping function step : 554
+COUNT:2 // LR:0.000900 // STEP:17914 // EPOCH:555 // OFFSET:12 // LEARN_COST:0.5710 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 555
+Early stopping function step : 556
+Early stopping function step : 557
+Early stopping function step : 558
+Early stopping function step : 559
+COUNT:2 // LR:0.000900 // STEP:18075 // EPOCH:560 // OFFSET:9 // LEARN_COST:0.5710 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 560
+Early stopping function step : 561
+Early stopping function step : 562
+Early stopping function step : 563
+Early stopping function step : 564
+COUNT:2 // LR:0.000900 // STEP:18236 // EPOCH:565 // OFFSET:6 // LEARN_COST:0.5709 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 565
+Early stopping function step : 566
+Early stopping function step : 567
+Early stopping function step : 568
+Early stopping function step : 569
+COUNT:2 // LR:0.000900 // STEP:18397 // EPOCH:570 // OFFSET:3 // LEARN_COST:0.5709 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 570
+Early stopping function step : 571
+Early stopping function step : 572
+Early stopping function step : 573
+Early stopping function step : 574
+COUNT:2 // LR:0.000900 // STEP:18558 // EPOCH:575 // OFFSET:0 // LEARN_COST:0.5709 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 575
+Early stopping function step : 576
+Early stopping function step : 577
+Early stopping function step : 578
+Early stopping function step : 579
+COUNT:2 // LR:0.000900 // STEP:18720 // EPOCH:580 // OFFSET:29 // LEARN_COST:0.5709 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 580
+Early stopping function step : 581
+Early stopping function step : 582
+Early stopping function step : 583
+Early stopping function step : 584
+COUNT:2 // LR:0.000900 // STEP:18881 // EPOCH:585 // OFFSET:26 // LEARN_COST:0.5708 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 585
+Early stopping function step : 586
+Early stopping function step : 587
+Early stopping function step : 588
+Early stopping function step : 589
+COUNT:2 // LR:0.000900 // STEP:19042 // EPOCH:590 // OFFSET:23 // LEARN_COST:0.5708 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 590
+Early stopping function step : 591
+Early stopping function step : 592
+Early stopping function step : 593
+Early stopping function step : 594
+COUNT:2 // LR:0.000900 // STEP:19203 // EPOCH:595 // OFFSET:20 // LEARN_COST:0.5708 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 595
+Early stopping function step : 596
+Early stopping function step : 597
+Early stopping function step : 598
+Early stopping function step : 599
+COUNT:2 // LR:0.000900 // STEP:19364 // EPOCH:600 // OFFSET:17 // LEARN_COST:0.5707 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 600
+Early stopping function step : 601
+Early stopping function step : 602
+Early stopping function step : 603
+Early stopping function step : 604
+COUNT:2 // LR:0.000900 // STEP:19525 // EPOCH:605 // OFFSET:14 // LEARN_COST:0.5707 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 605
+Early stopping function step : 606
+Early stopping function step : 607
+Early stopping function step : 608
+Early stopping function step : 609
+COUNT:2 // LR:0.000900 // STEP:19686 // EPOCH:610 // OFFSET:11 // LEARN_COST:0.5707 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 610
+Early stopping function step : 611
+Early stopping function step : 612
+Early stopping function step : 613
+Early stopping function step : 614
+COUNT:2 // LR:0.000900 // STEP:19847 // EPOCH:615 // OFFSET:8 // LEARN_COST:0.5707 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 615
+Early stopping function step : 616
+Early stopping function step : 617
+Early stopping function step : 618
+Early stopping function step : 619
+COUNT:2 // LR:0.000900 // STEP:20008 // EPOCH:620 // OFFSET:5 // LEARN_COST:0.5706 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 620
+Early stopping function step : 621
+Early stopping function step : 622
+Early stopping function step : 623
+Early stopping function step : 624
+COUNT:2 // LR:0.000900 // STEP:20169 // EPOCH:625 // OFFSET:2 // LEARN_COST:0.5706 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 625
+Early stopping function step : 626
+Early stopping function step : 627
+Early stopping function step : 628
+Early stopping function step : 629
+COUNT:2 // LR:0.000900 // STEP:20331 // EPOCH:630 // OFFSET:31 // LEARN_COST:0.5706 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 630
+Early stopping function step : 631
+Early stopping function step : 632
+Early stopping function step : 633
+Early stopping function step : 634
+COUNT:2 // LR:0.000900 // STEP:20492 // EPOCH:635 // OFFSET:28 // LEARN_COST:0.5706 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 635
+Early stopping function step : 636
+Early stopping function step : 637
+Early stopping function step : 638
+Early stopping function step : 639
+COUNT:2 // LR:0.000900 // STEP:20653 // EPOCH:640 // OFFSET:25 // LEARN_COST:0.5705 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 640
+Early stopping function step : 641
+Early stopping function step : 642
+Early stopping function step : 643
+Early stopping function step : 644
+COUNT:2 // LR:0.000900 // STEP:20814 // EPOCH:645 // OFFSET:22 // LEARN_COST:0.5705 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 645
+Early stopping function step : 646
+Early stopping function step : 647
+Early stopping function step : 648
+Early stopping function step : 649
+COUNT:2 // LR:0.000900 // STEP:20975 // EPOCH:650 // OFFSET:19 // LEARN_COST:0.5705 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 650
+Early stopping function step : 651
+Early stopping function step : 652
+Early stopping function step : 653
+Early stopping function step : 654
+COUNT:2 // LR:0.000900 // STEP:21136 // EPOCH:655 // OFFSET:16 // LEARN_COST:0.5705 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 655
+Early stopping function step : 656
+Early stopping function step : 657
+Early stopping function step : 658
+Early stopping function step : 659
+COUNT:2 // LR:0.000900 // STEP:21297 // EPOCH:660 // OFFSET:13 // LEARN_COST:0.5704 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 660
+Early stopping function step : 661
+Early stopping function step : 662
+Early stopping function step : 663
+Early stopping function step : 664
+COUNT:2 // LR:0.000900 // STEP:21458 // EPOCH:665 // OFFSET:10 // LEARN_COST:0.5704 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 665
+Early stopping function step : 666
+Early stopping function step : 667
+Early stopping function step : 668
+Early stopping function step : 669
+COUNT:2 // LR:0.000900 // STEP:21619 // EPOCH:670 // OFFSET:7 // LEARN_COST:0.5704 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 670
+Early stopping function step : 671
+Early stopping function step : 672
+Early stopping function step : 673
+Early stopping function step : 674
+COUNT:2 // LR:0.000900 // STEP:21780 // EPOCH:675 // OFFSET:4 // LEARN_COST:0.5704 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 675
+Early stopping function step : 676
+Early stopping function step : 677
+Early stopping function step : 678
+Early stopping function step : 679
+COUNT:2 // LR:0.000900 // STEP:21941 // EPOCH:680 // OFFSET:1 // LEARN_COST:0.5703 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 680
+Early stopping function step : 681
+Early stopping function step : 682
+Early stopping function step : 683
+Early stopping function step : 684
+COUNT:2 // LR:0.000900 // STEP:22103 // EPOCH:685 // OFFSET:30 // LEARN_COST:0.5703 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 685
+Early stopping function step : 686
+Early stopping function step : 687
+Early stopping function step : 688
+Early stopping function step : 689
+COUNT:2 // LR:0.000900 // STEP:22264 // EPOCH:690 // OFFSET:27 // LEARN_COST:0.5703 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 690
+Early stopping function step : 691
+Early stopping function step : 692
+Early stopping function step : 693
+Early stopping function step : 694
+COUNT:2 // LR:0.000900 // STEP:22425 // EPOCH:695 // OFFSET:24 // LEARN_COST:0.5702 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 695
+Early stopping function step : 696
+Early stopping function step : 697
+Early stopping function step : 698
+Early stopping function step : 699
+COUNT:2 // LR:0.000900 // STEP:22586 // EPOCH:700 // OFFSET:21 // LEARN_COST:0.5702 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 700
+Early stopping function step : 701
+Early stopping function step : 702
+Early stopping function step : 703
+Early stopping function step : 704
+COUNT:2 // LR:0.000900 // STEP:22747 // EPOCH:705 // OFFSET:18 // LEARN_COST:0.5702 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 705
+Early stopping function step : 706
+Early stopping function step : 707
+Early stopping function step : 708
+Early stopping function step : 709
+COUNT:2 // LR:0.000900 // STEP:22908 // EPOCH:710 // OFFSET:15 // LEARN_COST:0.5702 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 710
+Early stopping function step : 711
+Early stopping function step : 712
+Early stopping function step : 713
+Early stopping function step : 714
+COUNT:2 // LR:0.000900 // STEP:23069 // EPOCH:715 // OFFSET:12 // LEARN_COST:0.5701 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 715
+Early stopping function step : 716
+Early stopping function step : 717
+Early stopping function step : 718
+Early stopping function step : 719
+COUNT:2 // LR:0.000900 // STEP:23230 // EPOCH:720 // OFFSET:9 // LEARN_COST:0.5701 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 720
+Early stopping function step : 721
+Early stopping function step : 722
+Early stopping function step : 723
+Early stopping function step : 724
+COUNT:2 // LR:0.000900 // STEP:23391 // EPOCH:725 // OFFSET:6 // LEARN_COST:0.5701 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 725
+Early stopping function step : 726
+Early stopping function step : 727
+Early stopping function step : 728
+Early stopping function step : 729
+COUNT:2 // LR:0.000900 // STEP:23552 // EPOCH:730 // OFFSET:3 // LEARN_COST:0.5701 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 730
+Early stopping function step : 731
+Early stopping function step : 732
+Early stopping function step : 733
+Early stopping function step : 734
+COUNT:2 // LR:0.000900 // STEP:23713 // EPOCH:735 // OFFSET:0 // LEARN_COST:0.5700 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 735
+Early stopping function step : 736
+Early stopping function step : 737
+Early stopping function step : 738
+Early stopping function step : 739
+COUNT:2 // LR:0.000900 // STEP:23875 // EPOCH:740 // OFFSET:29 // LEARN_COST:0.5700 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 740
+Early stopping function step : 741
+Early stopping function step : 742
+Early stopping function step : 743
+Early stopping function step : 744
+COUNT:2 // LR:0.000900 // STEP:24036 // EPOCH:745 // OFFSET:26 // LEARN_COST:0.5700 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 745
+Early stopping function step : 746
+Early stopping function step : 747
+Early stopping function step : 748
+Early stopping function step : 749
+COUNT:2 // LR:0.000900 // STEP:24197 // EPOCH:750 // OFFSET:23 // LEARN_COST:0.5700 // VALI_COST:0.0269 // MIN_COST:0.0268
+Early stopping function step : 750
+Early stopping function step : 750
+
+
+Training process is stopped early....
