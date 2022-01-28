@@ -22,18 +22,18 @@ Code and folder describtion\
 -> ./DNN-ALL/TEST_NETWORK/ : This folder stores a network file that is a training result of the DNN-ALL model.\
 -> ./DNN-ALL/TrainingDNN.py : It is a training script for the DNN-ALL model.\
 -> ./DNN-ALL/PredictDNN.py : It is a script that produces prediction results by applying network to test data.\
--> ./DNN-ALL/Postprocessing.py : It is a script that performs statistical and AQI evaluations.\
+-> ./DNN-ALL/Postprocessing.py : It is a script that performs statistical and AQI evaluations.
 
-./DNN-OBS/ :: It contains codes and data related to the DNN-OBS model. The folder package configuration is the same as the DNN-ALL folder package.\
+./DNN-OBS/ :: It contains codes and data related to the DNN-OBS model. The folder package configuration is the same as the DNN-ALL folder package.
 
-./DNN-OPM/ :: It contains codes and data related to the DNN-OPM model. The folder package configuration is the same as the DNN-ALL folder package.\
+./DNN-OPM/ :: It contains codes and data related to the DNN-OPM model. The folder package configuration is the same as the DNN-ALL folder package.
 
 ./Module/ :: The module code used in DataPreprocessing.py is included.\
 -> ./Module/config.py : This script defines the variables required to perform DataPreprocessing.py.\
--> ./Module/utile.py : This script has a custom function required to perform DataPreprocessing.py.\
+-> ./Module/utile.py : This script has a custom function required to perform DataPreprocessing.py.
 
 ./RawData/ :: It contains the original data used in this paper.\
 -> ./RawData/SU_f_09 : It is prediction data of CMAQ and WRF models in Seoul.\
--> ./RawData/SU_obs_09 : It is observation data in Seoul.\
+-> ./RawData/SU_obs_09 : It is observation data in Seoul.
 
-./DataPreprocessing.py : This script processes the raw data to generate training, validation and test data of DNN-OBS, DNN-OPM, and DNN-ALL. In addition, membership function data is generated.\
+./DataPreprocessing.py : This script processes the raw data to generate training, validation and test data of DNN-OBS, DNN-OPM, and DNN-ALL. In addition, membership function data is generated.
